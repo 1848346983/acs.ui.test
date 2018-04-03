@@ -1,0 +1,50 @@
+[2017-09-12 18:59:04] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-09-12 18:59:05] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-09-12 18:59:05] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-09-12 18:59:06] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-09-12 18:59:07] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-09-12 18:59:07] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-09-12 18:59:10] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-09-12 18:59:11] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-09-12 18:59:13] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P001 : 选择"核算估值操作"  执行完毕！
+[2017-09-12 18:59:13] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P001 : 选择"核算估值操作"  执行完毕！
+[2017-09-12 18:59:14] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P002 :   执行完毕！
+[2017-09-12 18:59:14] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P002 :   执行完毕！
+[2017-09-12 18:59:16] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P003 :   执行完毕！
+[2017-09-12 18:59:16] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P003 :   执行完毕！
+[2017-09-12 18:59:17] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P004 : 点击进入核算处理  执行完毕！
+[2017-09-12 18:59:17] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P004 : 点击进入核算处理  执行完毕！
+[2017-09-12 18:59:19] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P005 : 等待时间  执行完毕！
+[2017-09-12 18:59:19] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P005 : 等待时间  执行完毕！
+[2017-09-12 18:59:20] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P006 : 点击产品名称框  执行完毕！
+[2017-09-12 18:59:20] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P006 : 点击产品名称框  执行完毕！
+[2017-09-12 18:59:25] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P007 : 点击输入产品代码  执行完毕！
+[2017-09-12 18:59:25] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P007 : 点击输入产品代码  执行完毕！
+[2017-09-12 18:59:26] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P008 : 选中产品  执行完毕！
+[2017-09-12 18:59:26] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P008 : 选中产品  执行完毕！
+[2017-09-12 18:59:27] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P009 : 点击节假日处理  执行完毕！
+[2017-09-12 18:59:27] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P009 : 点击节假日处理  执行完毕！
+[2017-09-12 18:59:28] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P010 : 点开始日期  执行完毕！
+[2017-09-12 18:59:28] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P010 : 点开始日期  执行完毕！
+[2017-09-12 18:59:29] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P011 : 选择上个月  执行完毕！
+[2017-09-12 18:59:29] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P011 : 选择上个月  执行完毕！
+[2017-09-12 18:59:30] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P012 : 选择年份  执行完毕！
+[2017-09-12 18:59:30] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P012 : 选择年份  执行完毕！
+[2017-09-12 18:59:31] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P013 : 选择五月  执行完毕！
+[2017-09-12 18:59:31] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P013 : 选择五月  执行完毕！
+[2017-09-12 18:59:32] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P014 : 选择八月  执行完毕！
+[2017-09-12 18:59:32] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P014 : 选择八月  执行完毕！
+[2017-09-12 18:59:33] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P015 : 选择左  执行完毕！
+[2017-09-12 18:59:33] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P015 : 选择左  执行完毕！
+[2017-09-12 18:59:34] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P016 : 选择右  执行完毕！
+[2017-09-12 18:59:34] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P016 : 选择右  执行完毕！
+[2017-09-12 18:59:36] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P017 : 选择2015年  执行完毕！
+[2017-09-12 18:59:36] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P017 : 选择2015年  执行完毕！
+[2017-09-12 18:59:37] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P018 : 点击OK  执行完毕！
+[2017-09-12 18:59:37] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P018 : 点击OK  执行完毕！
+[2017-09-12 18:59:38] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P019 : 选择十五号  执行完毕！
+[2017-09-12 18:59:38] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P019 : 选择十五号  执行完毕！
+[2017-09-12 18:59:40] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P020 : 等待  执行完毕！
+[2017-09-12 18:59:40] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P020 : 等待  执行完毕！
+[2017-09-12 18:59:41] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P033 : 查询  执行完毕！
+[2017-09-12 18:59:41] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P033 : 查询  执行完毕！

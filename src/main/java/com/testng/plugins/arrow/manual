@@ -1,0 +1,16 @@
+网易testng插件 -- arrow操作说明
+1、将config.properties文件复制到工程config目录中，修改ConfigReader类的CONFIGFILE为如下所示：
+ private static final String CONFIGFILE = "./config/config.properties";
+2、在工程中引用arrow项目，将如下内容添加到testng的xml文件中
+<listeners>
+	<listener class-name="com.netease.qa.testng.TestResultListener" />
+	<listener class-name="com.netease.qa.testng.RetryListener" />
+	<listener class-name="com.netease.qa.testng.PowerEmailableReporter" />
+</listeners>
+
+3、主要功能
+a：可设置testng测试失败重试次数
+b：增强结果报表
+
+4、问题
+a：将测试失败的截图添加到结果报表的功能，因不知道如何获取driver对象，暂时没有启用

@@ -1,0 +1,33 @@
+[2017-09-22 10:30:32] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-09-22 10:30:34] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-09-22 10:30:35] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-09-22 10:30:38] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-09-22 10:30:41] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P001 :   执行完毕！
+[2017-09-22 10:30:42] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P002 :   执行完毕！
+[2017-09-22 10:30:44] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P003 :   执行完毕！
+[2017-09-22 10:30:45] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P004 :   执行完毕！
+[2017-09-22 10:30:46] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P029 : 全选  执行完毕！
+[2017-09-22 10:30:49] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P030 :   执行完毕！
+[2017-09-22 10:30:50] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P031 :   执行完毕！
+[2017-09-22 10:30:51] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P032 :   执行完毕！
+[2017-09-22 10:30:53] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P033 :   执行完毕！
+[2017-09-22 10:30:54] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P034 :   执行完毕！
+[2017-09-22 10:30:55] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P035 :   执行完毕！
+[2017-09-22 10:30:56] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P036 :   执行完毕！
+[2017-09-22 10:30:56] [yss.acs.ui.test.testcases.ProductExtends_002][行:321] 开始等待元素.//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="审核成功！"]出现，超时时间为 : 5秒
+[2017-09-22 10:30:56] [yss.acs.ui.test.testcases.ProductExtends_002][行:328] 等待操作完成，元素XPath = .//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="审核成功！"]
+[2017-09-22 10:30:58] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P037 :   执行完毕！
+[2017-09-22 10:31:00] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P038 :   执行完毕！
+[2017-09-22 10:31:02] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P039 :   执行完毕！
+[2017-09-22 10:31:03] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P040 : 全选  执行完毕！
+[2017-09-22 10:31:05] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P041 :   执行完毕！
+[2017-09-22 10:31:06] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P042 :   执行完毕！
+[2017-09-22 10:31:07] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P043 :   执行完毕！
+[2017-09-22 10:31:09] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P044 :   执行完毕！
+[2017-09-22 10:31:10] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P045 :   执行完毕！
+[2017-09-22 10:31:11] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P046 :   执行完毕！
+[2017-09-22 10:31:12] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P047 :   执行完毕！
+[2017-09-22 10:31:12] [yss.acs.ui.test.testcases.ProductExtends_002][行:321] 开始等待元素.//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="反审核成功"]出现，超时时间为 : 5秒
+[2017-09-22 10:31:12] [yss.acs.ui.test.testcases.ProductExtends_002][行:328] 等待操作完成，元素XPath = .//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="反审核成功"]
+[2017-09-22 10:31:14] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P048 :   执行完毕！
+[2017-09-22 10:31:15] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P049 :   执行完毕！

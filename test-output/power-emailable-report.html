@@ -1,0 +1,395 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>TestNG Report</title>
+<style type="text/css">
+table {margin-bottom:10px;border-collapse:collapse;empty-cells:show}
+td,th {border:1px solid #009;padding:.25em .5em}
+.result th {vertical-align:bottom}
+.param th {padding-left:1em;padding-right:1em}
+.param td {padding-left:.5em;padding-right:2em}
+.stripe td,.stripe th {background-color: #E6EBF9}
+.numi,.numi_attn {text-align:right}
+.total td {font-weight:bold}
+.passedodd td {background-color: #0A0}
+.passedeven td {background-color: #3F3}
+.skippedodd td {background-color: #CCC}
+.skippedodd td {background-color: #DDD}
+.failedodd td,.numi_attn {background-color: #F33}
+.failedeven td,.stripe .numi_attn {background-color: #D00}
+.stacktrace {white-space:pre;font-family:monospace}
+.totop {font-size:85%;text-align:center;border-bottom:2px solid #000}
+</style>
+</head>
+<body>
+<table cellspacing="0" cellpadding="0" class="testOverview">
+<tr><th>Test</th><th>Methods<br/>Passed</th><th>Scenarios<br/>Passed</th><th># skipped</th><th># failed</th><th>Total<br/>Time</th><th>Included<br/>Groups</th><th>Excluded<br/>Groups</th></tr>
+<tr><td style="text-align:left;padding-right:2em"><a href="#t1">产品基本信息管理</a></td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">67.1 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr class="stripe"><td style="text-align:left;padding-right:2em"><a href="#t2">产品扩展信息管理</a></td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">51.3 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr><td style="text-align:left;padding-right:2em"><a href="#t3">资金账户信息管理</a></td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">63.8 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr class="stripe"><td style="text-align:left;padding-right:2em"><a href="#t4">产品交易单元关联信息管理</a></td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">38.5 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr><td style="text-align:left;padding-right:2em"><a href="#t5">交易单元信息管理</a></td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">69.1 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr class="stripe"><td style="text-align:left;padding-right:2em"><a href="#t6">证券账户信息管理</a></td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">39.6 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr><td style="text-align:left;padding-right:2em"><a href="#t7">账户利率信息管理</a></td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">54.7 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr class="stripe"><td style="text-align:left;padding-right:2em"><a href="#t8">一级清算信息管理</a></td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">65.7 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr><td style="text-align:left;padding-right:2em"><a href="#t9">友好账户信息管理</a></td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">33.2 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr class="stripe"><td style="text-align:left;padding-right:2em"><a href="#t10">业务方案信息管理</a></td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">36.3 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr><td style="text-align:left;padding-right:2em"><a href="#t11">产品关联业务方案信息管理</a></td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">44.4 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr class="stripe"><td style="text-align:left;padding-right:2em"><a href="#t12">科目方案</a></td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">34.3 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr><td style="text-align:left;padding-right:2em"><a href="#t13">核算模板方案</a></td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">62.9 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr class="stripe"><td style="text-align:left;padding-right:2em"><a href="#t14">公共证券估值方案信息管理</a></td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">38.0 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr><td style="text-align:left;padding-right:2em"><a href="#t15">产品证券估值方案信息管理</a></td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">33.5 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr class="stripe"><td style="text-align:left;padding-right:2em"><a href="#t16">公共债券估值方案管理</a></td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">81.6 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr><td style="text-align:left;padding-right:2em"><a href="#t17">产品债券估值方案管理</a></td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">41.3 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr class="stripe"><td style="text-align:left;padding-right:2em"><a href="#t18">核算交易流水数据处理</a></td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">39.0 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr><td style="text-align:left;padding-right:2em"><a href="#t19">场内证券流水管理</a></td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">61.1 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr class="stripe"><td style="text-align:left;padding-right:2em"><a href="#t20">场外回购交易信息管理</a></td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">59.1 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr><td style="text-align:left;padding-right:2em"><a href="#t21">场外债券交易信息管理</a></td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">73.2 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr class="stripe"><td style="text-align:left;padding-right:2em"><a href="#t22">证券流通信息管理</a></td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">58.2 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr><td style="text-align:left;padding-right:2em"><a href="#t23">证券转换业务信息管理</a></td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">159.5 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr class="stripe"><td style="text-align:left;padding-right:2em"><a href="#t24">开放式基金业务信息管</a></td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">72.0 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr><td style="text-align:left;padding-right:2em"><a href="#t25">资产估值表</a></td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">92.5 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr class="stripe"><td style="text-align:left;padding-right:2em"><a href="#t26">资产余额表</a></td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">57.3 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr><td style="text-align:left;padding-right:2em"><a href="#t27">核算处理</a></td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">46.2 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr class="stripe"><td style="text-align:left;padding-right:2em"><a href="#t28">凭证维护</a></td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">77.4 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr><td style="text-align:left;padding-right:2em"><a href="#t29">日记账簿信息</a></td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">45.0 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr class="stripe"><td style="text-align:left;padding-right:2em"><a href="#t30">核算账务锁定</a></td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">55.0 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr class="total"><td>Total</td>
+<td class="numi">30</td><td class="numi">30</td><td class="numi">0</td><td class="numi">0</td><td class="numi">1,751.1 seconds</td><td colspan="2">&nbsp;</td></tr>
+</table>
+<table cellspacing="0" cellpadding="0" class="methodOverview" id="summary">
+<tr><th>Class</th><th>Method</th><th>Authors</th><th># of<br/>Scenarios</th><th>Running Counts</th><th>Parameters</th><th>Start</th><th>Time<br/>(ms)</th></tr>
+<tr id="t1"><th colspan="5">产品基本信息管理 &#8212; Passed (configuration methods)</th></tr>
+<tr class="Passedodd"><td rowspan="2">yss.acs.ui.test.testcases.ProductBasic_001</td><td><a href="#m-284968832"><b>setUp</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503456896576</td><td class="numi">13738</td></tr><tr class="Passedodd"><td><a href="#m-2057771033"><b>teardown</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503456962590</td><td class="numi">1120</td></tr>
+<tr><th colspan="5">产品基本信息管理 &#8212; passed</th></tr>
+<tr class="passedodd"><td>yss.acs.ui.test.testcases.ProductBasic_001</td><td><a href="#m594773348"><b>productDasic</b>  </a></td><td>unknown</td><td class="numi">1</td><td>1</td><td></td><td>1503456910314</td><td class="numi">52274</td></tr>
+<tr id="t2"><th colspan="5">产品扩展信息管理 &#8212; Passed (configuration methods)</th></tr>
+<tr class="Passedodd"><td rowspan="2">yss.acs.ui.test.testcases.ProductExtends_002</td><td><a href="#m-983297300"><b>setUp</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503456963733</td><td class="numi">12333</td></tr><tr class="Passedodd"><td><a href="#m1538867795"><b>teardown</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457013919</td><td class="numi">1134</td></tr>
+<tr><th colspan="5">产品扩展信息管理 &#8212; passed</th></tr>
+<tr class="passedodd"><td>yss.acs.ui.test.testcases.ProductExtends_002</td><td><a href="#m1762865401"><b>productExtends</b>  </a></td><td>unknown</td><td class="numi">1</td><td>1</td><td></td><td>1503456976066</td><td class="numi">37851</td></tr>
+<tr id="t3"><th colspan="5">资金账户信息管理 &#8212; Passed (configuration methods)</th></tr>
+<tr class="Passedodd"><td rowspan="2">yss.acs.ui.test.testcases.CapitalAccount_003</td><td><a href="#m1898923112"><b>setUp</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457015062</td><td class="numi">12104</td></tr><tr class="Passedodd"><td><a href="#m126120911"><b>teardown</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457075405</td><td class="numi">3418</td></tr>
+<tr><th colspan="5">资金账户信息管理 &#8212; passed</th></tr>
+<tr class="passedodd"><td>yss.acs.ui.test.testcases.CapitalAccount_003</td><td><a href="#m1641777520"><b>capitalAccount</b>  </a></td><td>unknown</td><td class="numi">1</td><td>1</td><td></td><td>1503457027166</td><td class="numi">48235</td></tr>
+<tr id="t4"><th colspan="5">产品交易单元关联信息管理 &#8212; Passed (configuration methods)</th></tr>
+<tr class="Passedodd"><td rowspan="2">yss.acs.ui.test.testcases.ProductDealUitl_004</td><td><a href="#m-513553367"><b>setUp</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457078841</td><td class="numi">12690</td></tr><tr class="Passedodd"><td><a href="#m2008611728"><b>teardown</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457116221</td><td class="numi">1119</td></tr>
+<tr><th colspan="5">产品交易单元关联信息管理 &#8212; passed</th></tr>
+<tr class="passedodd"><td>yss.acs.ui.test.testcases.ProductDealUitl_004</td><td><a href="#m34245171"><b>productDealUitl</b>  </a></td><td>unknown</td><td class="numi">1</td><td>1</td><td></td><td>1503457091531</td><td class="numi">24689</td></tr>
+<tr id="t5"><th colspan="5">交易单元信息管理 &#8212; Passed (configuration methods)</th></tr>
+<tr class="Passedodd"><td rowspan="2">yss.acs.ui.test.testcases.JiYiDanYuan_005</td><td><a href="#m-1539637042"><b>setUp</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457117352</td><td class="numi">12923</td></tr><tr class="Passedodd"><td><a href="#m982528053"><b>teardown</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457183042</td><td class="numi">3415</td></tr>
+<tr><th colspan="5">交易单元信息管理 &#8212; passed</th></tr>
+<tr class="passedodd"><td>yss.acs.ui.test.testcases.JiYiDanYuan_005</td><td><a href="#m-1646672811"><b>JYDY</b>  </a></td><td>unknown</td><td class="numi">1</td><td>1</td><td></td><td>1503457130275</td><td class="numi">52766</td></tr>
+<tr id="t6"><th colspan="5">证券账户信息管理 &#8212; Passed (configuration methods)</th></tr>
+<tr class="Passedodd"><td rowspan="2">yss.acs.ui.test.testcases.SecurAccoInfManagement_006</td><td><a href="#m-984417586"><b>setUp</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457186467</td><td class="numi">11777</td></tr><tr class="Passedodd"><td><a href="#m1537747509"><b>teardown</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457222670</td><td class="numi">3414</td></tr>
+<tr><th colspan="5">证券账户信息管理 &#8212; passed</th></tr>
+<tr class="passedodd"><td>yss.acs.ui.test.testcases.SecurAccoInfManagement_006</td><td><a href="#m233811614"><b>SecurAccoInfoManagement</b>  </a></td><td>unknown</td><td class="numi">1</td><td>1</td><td></td><td>1503457198244</td><td class="numi">24424</td></tr>
+<tr id="t7"><th colspan="5">账户利率信息管理 &#8212; Passed (configuration methods)</th></tr>
+<tr class="Passedodd"><td rowspan="2">yss.acs.ui.test.testcases.AccIntRateInfo_007</td><td><a href="#m-1939874621"><b>setUp</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457226095</td><td class="numi">12150</td></tr><tr class="Passedodd"><td><a href="#m582290474"><b>teardown</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457277361</td><td class="numi">3410</td></tr>
+<tr><th colspan="5">账户利率信息管理 &#8212; passed</th></tr>
+<tr class="passedodd"><td>yss.acs.ui.test.testcases.AccIntRateInfo_007</td><td><a href="#m-833402430"><b>AccIntRateInfo</b>  </a></td><td>unknown</td><td class="numi">1</td><td>1</td><td></td><td>1503457238245</td><td class="numi">39115</td></tr>
+<tr id="t8"><th colspan="5">一级清算信息管理 &#8212; Passed (configuration methods)</th></tr>
+<tr class="Passedodd"><td rowspan="2">yss.acs.ui.test.testcases.PriClearInfManagement_008</td><td><a href="#m1993252228"><b>setUp</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457280778</td><td class="numi">12111</td></tr><tr class="Passedodd"><td><a href="#m220450027"><b>teardown</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457343022</td><td class="numi">3451</td></tr>
+<tr><th colspan="5">一级清算信息管理 &#8212; passed</th></tr>
+<tr class="passedodd"><td>yss.acs.ui.test.testcases.PriClearInfManagement_008</td><td><a href="#m-1431335035"><b>PriClearInfManagement</b>  </a></td><td>unknown</td><td class="numi">1</td><td>1</td><td></td><td>1503457292889</td><td class="numi">50131</td></tr>
+<tr id="t9"><th colspan="5">友好账户信息管理 &#8212; Passed (configuration methods)</th></tr>
+<tr class="Passedodd"><td rowspan="2">yss.acs.ui.test.testcases.FrienAccountInfo_009</td><td><a href="#m-2124464482"><b>setUp</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457346478</td><td class="numi">12252</td></tr><tr class="Passedodd"><td><a href="#m397700613"><b>teardown</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457376202</td><td class="numi">3438</td></tr>
+<tr><th colspan="5">友好账户信息管理 &#8212; passed</th></tr>
+<tr class="passedodd"><td>yss.acs.ui.test.testcases.FrienAccountInfo_009</td><td><a href="#m-814317002"><b>FrienAccountInfo</b>  </a></td><td>unknown</td><td class="numi">1</td><td>1</td><td></td><td>1503457358730</td><td class="numi">17471</td></tr>
+<tr id="t10"><th colspan="5">业务方案信息管理 &#8212; Passed (configuration methods)</th></tr>
+<tr class="Passedodd"><td rowspan="2">yss.acs.ui.test.testcases.BusiProManag_010</td><td><a href="#m-152064261"><b>setUp</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457379653</td><td class="numi">11537</td></tr><tr class="Passedodd"><td><a href="#m-1924866462"><b>teardown</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457412538</td><td class="numi">3444</td></tr>
+<tr><th colspan="5">业务方案信息管理 &#8212; passed</th></tr>
+<tr class="passedodd"><td>yss.acs.ui.test.testcases.BusiProManag_010</td><td><a href="#m1283870170"><b>BusiProManag</b>  </a></td><td>unknown</td><td class="numi">1</td><td>1</td><td></td><td>1503457391190</td><td class="numi">21346</td></tr>
+<tr id="t11"><th colspan="5">产品关联业务方案信息管理 &#8212; Passed (configuration methods)</th></tr>
+<tr class="Passedodd"><td rowspan="2">yss.acs.ui.test.testcases.ProductAssor_011</td><td><a href="#m-1281038955"><b>setUp</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457415988</td><td class="numi">12325</td></tr><tr class="Passedodd"><td><a href="#m1241126140"><b>teardown</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457456960</td><td class="numi">3405</td></tr>
+<tr><th colspan="5">产品关联业务方案信息管理 &#8212; passed</th></tr>
+<tr class="passedodd"><td>yss.acs.ui.test.testcases.ProductAssor_011</td><td><a href="#m-403530899"><b>productAssor</b>  </a></td><td>unknown</td><td class="numi">1</td><td>1</td><td></td><td>1503457428313</td><td class="numi">28646</td></tr>
+<tr id="t12"><th colspan="5">科目方案 &#8212; Passed (configuration methods)</th></tr>
+<tr class="Passedodd"><td rowspan="2">yss.acs.ui.test.testcases.SubjectPro_012</td><td><a href="#m1241600322"><b>setUp</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457460372</td><td class="numi">12612</td></tr><tr class="Passedodd"><td><a href="#m-531201879"><b>teardown</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457493551</td><td class="numi">1165</td></tr>
+<tr><th colspan="5">科目方案 &#8212; passed</th></tr>
+<tr class="passedodd"><td>yss.acs.ui.test.testcases.SubjectPro_012</td><td><a href="#m558651558"><b>subjectpro</b>  </a></td><td>unknown</td><td class="numi">1</td><td>1</td><td></td><td>1503457472984</td><td class="numi">20565</td></tr>
+<tr id="t13"><th colspan="5">核算模板方案 &#8212; Passed (configuration methods)</th></tr>
+<tr class="Passedodd"><td rowspan="2">yss.acs.ui.test.testcases.AccountStencilScheme_013</td><td><a href="#m1315650038"><b>setUp</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457494722</td><td class="numi">12010</td></tr><tr class="Passedodd"><td><a href="#m-457152163"><b>teardown</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457554228</td><td class="numi">3418</td></tr>
+<tr><th colspan="5">核算模板方案 &#8212; passed</th></tr>
+<tr class="passedodd"><td>yss.acs.ui.test.testcases.AccountStencilScheme_013</td><td><a href="#m140640461"><b>AccountStencilScheme</b>  </a></td><td>unknown</td><td class="numi">1</td><td>1</td><td></td><td>1503457506732</td><td class="numi">47495</td></tr>
+<tr id="t14"><th colspan="5">公共证券估值方案信息管理 &#8212; Passed (configuration methods)</th></tr>
+<tr class="Passedodd"><td rowspan="2">yss.acs.ui.test.testcases.PublicZhengquanGuzhi_014</td><td><a href="#m2045672056"><b>setUp</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457557656</td><td class="numi">12183</td></tr><tr class="Passedodd"><td><a href="#m272869855"><b>teardown</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457592219</td><td class="numi">3412</td></tr>
+<tr><th colspan="5">公共证券估值方案信息管理 &#8212; passed</th></tr>
+<tr class="passedodd"><td>yss.acs.ui.test.testcases.PublicZhengquanGuzhi_014</td><td><a href="#m-1500400080"><b>publicZhengquanGuzhi</b>  </a></td><td>unknown</td><td class="numi">1</td><td>1</td><td></td><td>1503457569839</td><td class="numi">22379</td></tr>
+<tr id="t15"><th colspan="5">产品证券估值方案信息管理 &#8212; Passed (configuration methods)</th></tr>
+<tr class="Passedodd"><td rowspan="2">yss.acs.ui.test.testcases.ChanPinZhengQuanGuZhi_015</td><td><a href="#m-1866282127"><b>setUp</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457595637</td><td class="numi">12377</td></tr><tr class="Passedodd"><td><a href="#m655882968"><b>teardown</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457625699</td><td class="numi">3409</td></tr>
+<tr><th colspan="5">产品证券估值方案信息管理 &#8212; passed</th></tr>
+<tr class="passedodd"><td>yss.acs.ui.test.testcases.ChanPinZhengQuanGuZhi_015</td><td><a href="#m1932622787"><b>ChanPinZhengQuanGuZhi</b>  </a></td><td>unknown</td><td class="numi">1</td><td>1</td><td></td><td>1503457608014</td><td class="numi">17682</td></tr>
+<tr id="t16"><th colspan="5">公共债券估值方案管理 &#8212; Passed (configuration methods)</th></tr>
+<tr class="Passedodd"><td rowspan="2">yss.acs.ui.test.testcases.PublicBonds_016</td><td><a href="#m1103494218"><b>setUp</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457629115</td><td class="numi">12371</td></tr><tr class="Passedodd"><td><a href="#m-669307983"><b>teardown</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457709640</td><td class="numi">1106</td></tr>
+<tr><th colspan="5">公共债券估值方案管理 &#8212; passed</th></tr>
+<tr class="passedodd"><td>yss.acs.ui.test.testcases.PublicBonds_016</td><td><a href="#m-112829740"><b>publicBonds</b>  </a></td><td>unknown</td><td class="numi">1</td><td>1</td><td></td><td>1503457641486</td><td class="numi">68153</td></tr>
+<tr id="t17"><th colspan="5">产品债券估值方案管理 &#8212; Passed (configuration methods)</th></tr>
+<tr class="Passedodd"><td rowspan="2">yss.acs.ui.test.testcases.ProductBonds_017</td><td><a href="#m-1926348409"><b>setUp</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457710753</td><td class="numi">12123</td></tr><tr class="Passedodd"><td><a href="#m595816686"><b>teardown</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457748613</td><td class="numi">3416</td></tr>
+<tr><th colspan="5">产品债券估值方案管理 &#8212; passed</th></tr>
+<tr class="passedodd"><td>yss.acs.ui.test.testcases.ProductBonds_017</td><td><a href="#m-1048041141"><b>productBonds</b>  </a></td><td>unknown</td><td class="numi">1</td><td>1</td><td></td><td>1503457722876</td><td class="numi">25736</td></tr>
+<tr id="t18"><th colspan="5">核算交易流水数据处理 &#8212; Passed (configuration methods)</th></tr>
+<tr class="Passedodd"><td rowspan="2">yss.acs.ui.test.testcases.DataChange_018</td><td><a href="#m-1748967711"><b>setUp</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457752040</td><td class="numi">11757</td></tr><tr class="Passedodd"><td><a href="#m773197384"><b>teardown</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457789911</td><td class="numi">1094</td></tr>
+<tr><th colspan="5">核算交易流水数据处理 &#8212; passed</th></tr>
+<tr class="passedodd"><td>yss.acs.ui.test.testcases.DataChange_018</td><td><a href="#m-1858293565"><b>DC</b>  </a></td><td>unknown</td><td class="numi">1</td><td>1</td><td></td><td>1503457763797</td><td class="numi">26113</td></tr>
+<tr id="t19"><th colspan="5">场内证券流水管理 &#8212; Passed (configuration methods)</th></tr>
+<tr class="Passedodd"><td rowspan="2">yss.acs.ui.test.testcases.ChangNeiZhengQuan_019</td><td><a href="#m585433162"><b>setUp</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457791031</td><td class="numi">14405</td></tr><tr class="Passedodd"><td><a href="#m-1187369039"><b>teardown</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457848753</td><td class="numi">3415</td></tr>
+<tr><th colspan="5">场内证券流水管理 &#8212; passed</th></tr>
+<tr class="passedodd"><td>yss.acs.ui.test.testcases.ChangNeiZhengQuan_019</td><td><a href="#m478178959"><b>CNZQ</b>  </a></td><td>unknown</td><td class="numi">1</td><td>1</td><td></td><td>1503457805436</td><td class="numi">43316</td></tr>
+<tr id="t20"><th colspan="5">场外回购交易信息管理 &#8212; Passed (configuration methods)</th></tr>
+<tr class="Passedodd"><td rowspan="2">yss.acs.ui.test.testcases.BuyBackDeal_020</td><td><a href="#m1170932949"><b>setUp</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457852173</td><td class="numi">16924</td></tr><tr class="Passedodd"><td><a href="#m-601869252"><b>teardown</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457907517</td><td class="numi">3729</td></tr>
+<tr><th colspan="5">场外回购交易信息管理 &#8212; passed</th></tr>
+<tr class="passedodd"><td>yss.acs.ui.test.testcases.BuyBackDeal_020</td><td><a href="#m2063234257"><b>buyBackDeal</b>  </a></td><td>unknown</td><td class="numi">1</td><td>1</td><td></td><td>1503457869097</td><td class="numi">38419</td></tr>
+<tr id="t21"><th colspan="5">场外债券交易信息管理 &#8212; Passed (configuration methods)</th></tr>
+<tr class="Passedodd"><td rowspan="2">yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021</td><td><a href="#m-891284435"><b>setUp</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457911253</td><td class="numi">13804</td></tr><tr class="Passedodd"><td><a href="#m1630880660"><b>teardown</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457981029</td><td class="numi">3425</td></tr>
+<tr><th colspan="5">场外债券交易信息管理 &#8212; passed</th></tr>
+<tr class="passedodd"><td>yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021</td><td><a href="#m-2107608393"><b>publicBonds</b>  </a></td><td>unknown</td><td class="numi">1</td><td>1</td><td></td><td>1503457925057</td><td class="numi">55971</td></tr>
+<tr id="t22"><th colspan="5">证券流通信息管理 &#8212; Passed (configuration methods)</th></tr>
+<tr class="Passedodd"><td rowspan="2">yss.acs.ui.test.testcases.ZhengQaunLiuTong_022</td><td><a href="#m1888357363"><b>setUp</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503457984462</td><td class="numi">11748</td></tr><tr class="Passedodd"><td><a href="#m115555162"><b>teardown</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503458041582</td><td class="numi">1112</td></tr>
+<tr><th colspan="5">证券流通信息管理 &#8212; passed</th></tr>
+<tr class="passedodd"><td>yss.acs.ui.test.testcases.ZhengQaunLiuTong_022</td><td><a href="#m-1712329198"><b>zhengQuanLiuTong_022</b>  </a></td><td>unknown</td><td class="numi">1</td><td>1</td><td></td><td>1503457996210</td><td class="numi">45372</td></tr>
+<tr id="t23"><th colspan="5">证券转换业务信息管理 &#8212; Passed (configuration methods)</th></tr>
+<tr class="Passedodd"><td rowspan="2">yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023</td><td><a href="#m-681060722"><b>setUp</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503458042697</td><td class="numi">13449</td></tr><tr class="Passedodd"><td><a href="#m1841104373"><b>teardown</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503458198746</td><td class="numi">3428</td></tr>
+<tr><th colspan="5">证券转换业务信息管理 &#8212; passed</th></tr>
+<tr class="passedodd"><td>yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023</td><td><a href="#m1221647902"><b>zhengQuanZhuanHuan</b>  </a></td><td>unknown</td><td class="numi">1</td><td>1</td><td></td><td>1503458056146</td><td class="numi">142598</td></tr>
+<tr id="t24"><th colspan="5">开放式基金业务信息管 &#8212; Passed (configuration methods)</th></tr>
+<tr class="Passedodd"><td rowspan="2">yss.acs.ui.test.testcases.OpenBusinessManage_024</td><td><a href="#m-1095756367"><b>setUp</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503458202187</td><td class="numi">12374</td></tr><tr class="Passedodd"><td><a href="#m1426408728"><b>teardown</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503458270549</td><td class="numi">3602</td></tr>
+<tr><th colspan="5">开放式基金业务信息管 &#8212; passed</th></tr>
+<tr class="passedodd"><td>yss.acs.ui.test.testcases.OpenBusinessManage_024</td><td><a href="#m156139843"><b>openBusinessManage</b>  </a></td><td>unknown</td><td class="numi">1</td><td>1</td><td></td><td>1503458214561</td><td class="numi">55987</td></tr>
+<tr id="t25"><th colspan="5">资产估值表 &#8212; Passed (configuration methods)</th></tr>
+<tr class="Passedodd"><td rowspan="2">yss.acs.ui.test.testcases.AssetValuTable_025</td><td><a href="#m485439533"><b>setUp</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503458274156</td><td class="numi">12505</td></tr><tr class="Passedodd"><td><a href="#m-1287362668"><b>teardown</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503458363227</td><td class="numi">3389</td></tr>
+<tr><th colspan="5">资产估值表 &#8212; passed</th></tr>
+<tr class="passedodd"><td>yss.acs.ui.test.testcases.AssetValuTable_025</td><td><a href="#m-1043675302"><b>AssetValuTable</b>  </a></td><td>unknown</td><td class="numi">1</td><td>1</td><td></td><td>1503458286661</td><td class="numi">76566</td></tr>
+<tr id="t26"><th colspan="5">资产余额表 &#8212; Passed (configuration methods)</th></tr>
+<tr class="Passedodd"><td rowspan="2">yss.acs.ui.test.testcases.ZiChanYuEBiao_026</td><td><a href="#m152528159"><b>setUp</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503458366628</td><td class="numi">12363</td></tr><tr class="Passedodd"><td><a href="#m-1620274042"><b>teardown</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503458422867</td><td class="numi">1104</td></tr>
+<tr><th colspan="5">资产余额表 &#8212; passed</th></tr>
+<tr class="passedodd"><td>yss.acs.ui.test.testcases.ZiChanYuEBiao_026</td><td><a href="#m182368031"><b>ziChanYuEBiao</b>  </a></td><td>unknown</td><td class="numi">1</td><td>1</td><td></td><td>1503458378991</td><td class="numi">43875</td></tr>
+<tr id="t27"><th colspan="5">核算处理 &#8212; Passed (configuration methods)</th></tr>
+<tr class="Passedodd"><td rowspan="2">yss.acs.ui.test.testcases.HeSuanChuLi_027</td><td><a href="#m2122866500"><b>setUp</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503458423978</td><td class="numi">12286</td></tr><tr class="Passedodd"><td><a href="#m350064299"><b>teardown</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503458466752</td><td class="numi">3413</td></tr>
+<tr><th colspan="5">核算处理 &#8212; passed</th></tr>
+<tr class="passedodd"><td>yss.acs.ui.test.testcases.HeSuanChuLi_027</td><td><a href="#m272385416"><b>HeSuanChuLi</b>  </a></td><td>unknown</td><td class="numi">1</td><td>1</td><td></td><td>1503458436264</td><td class="numi">30487</td></tr>
+<tr id="t28"><th colspan="5">凭证维护 &#8212; Passed (configuration methods)</th></tr>
+<tr class="Passedodd"><td rowspan="2">yss.acs.ui.test.testcases.PingZhengWeiHu_028</td><td><a href="#m436384336"><b>setUp</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503458470168</td><td class="numi">13022</td></tr><tr class="Passedodd"><td><a href="#m-1336417865"><b>teardown</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503458543844</td><td class="numi">3769</td></tr>
+<tr><th colspan="5">凭证维护 &#8212; passed</th></tr>
+<tr class="passedodd"><td>yss.acs.ui.test.testcases.PingZhengWeiHu_028</td><td><a href="#m1006881693"><b>PingZhengWeiHu</b>  </a></td><td>unknown</td><td class="numi">1</td><td>1</td><td></td><td>1503458483190</td><td class="numi">60653</td></tr>
+<tr id="t29"><th colspan="5">日记账簿信息 &#8212; Passed (configuration methods)</th></tr>
+<tr class="Passedodd"><td rowspan="2">yss.acs.ui.test.testcases.RiJiZhangBuXinXi_029</td><td><a href="#m-1757879540"><b>setUp</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503458547621</td><td class="numi">12460</td></tr><tr class="Passedodd"><td><a href="#m764285555"><b>teardown</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503458589221</td><td class="numi">3412</td></tr>
+<tr><th colspan="5">日记账簿信息 &#8212; passed</th></tr>
+<tr class="passedodd"><td>yss.acs.ui.test.testcases.RiJiZhangBuXinXi_029</td><td><a href="#m2088985300"><b>RiJiZhangBuXinXi</b>  </a></td><td>unknown</td><td class="numi">1</td><td>1</td><td></td><td>1503458560081</td><td class="numi">29139</td></tr>
+<tr id="t30"><th colspan="5">核算账务锁定 &#8212; Passed (configuration methods)</th></tr>
+<tr class="Passedodd"><td rowspan="3">yss.acs.ui.test.testcases.HeSuanZhangWuSuoDing_030</td><td><a href="#m229768617"><b>afterSuite</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503458647688</td><td class="numi">698</td></tr><tr class="Passedodd"><td><a href="#m-1192261174"><b>setUp</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503458592642</td><td class="numi">16399</td></tr><tr class="Passedodd"><td><a href="#m1329903921"><b>teardown</b>  </a></td><td>unknown</td><td class="numi">1</td><td></td><td></td><td>1503458644249</td><td class="numi">3435</td></tr>
+<tr><th colspan="5">核算账务锁定 &#8212; passed</th></tr>
+<tr class="passedodd"><td>yss.acs.ui.test.testcases.HeSuanZhangWuSuoDing_030</td><td><a href="#m-156478278"><b>HeSuanZhangWuSuoDing</b>  </a></td><td>unknown</td><td class="numi">1</td><td>1</td><td></td><td>1503458609041</td><td class="numi">35205</td></tr>
+</table>
+<h1>产品基本信息管理</h1>
+<h2 id="m-2057771033" name="m-2057771033" >yss.acs.ui.test.testcases.ProductBasic_001:teardown</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m-284968832" name="m-284968832" >yss.acs.ui.test.testcases.ProductBasic_001:setUp</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m594773348" name="m594773348" >yss.acs.ui.test.testcases.ProductBasic_001:productDasic</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>产品扩展信息管理</h1>
+<h2 id="m1538867795" name="m1538867795" >yss.acs.ui.test.testcases.ProductExtends_002:teardown</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m-983297300" name="m-983297300" >yss.acs.ui.test.testcases.ProductExtends_002:setUp</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m1762865401" name="m1762865401" >yss.acs.ui.test.testcases.ProductExtends_002:productExtends</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>资金账户信息管理</h1>
+<h2 id="m126120911" name="m126120911" >yss.acs.ui.test.testcases.CapitalAccount_003:teardown</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m1898923112" name="m1898923112" >yss.acs.ui.test.testcases.CapitalAccount_003:setUp</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m1641777520" name="m1641777520" >yss.acs.ui.test.testcases.CapitalAccount_003:capitalAccount</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>产品交易单元关联信息管理</h1>
+<h2 id="m2008611728" name="m2008611728" >yss.acs.ui.test.testcases.ProductDealUitl_004:teardown</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m-513553367" name="m-513553367" >yss.acs.ui.test.testcases.ProductDealUitl_004:setUp</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m34245171" name="m34245171" >yss.acs.ui.test.testcases.ProductDealUitl_004:productDealUitl</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>交易单元信息管理</h1>
+<h2 id="m-1539637042" name="m-1539637042" >yss.acs.ui.test.testcases.JiYiDanYuan_005:setUp</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m982528053" name="m982528053" >yss.acs.ui.test.testcases.JiYiDanYuan_005:teardown</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m-1646672811" name="m-1646672811" >yss.acs.ui.test.testcases.JiYiDanYuan_005:JYDY</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>证券账户信息管理</h1>
+<h2 id="m-984417586" name="m-984417586" >yss.acs.ui.test.testcases.SecurAccoInfManagement_006:setUp</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m1537747509" name="m1537747509" >yss.acs.ui.test.testcases.SecurAccoInfManagement_006:teardown</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m233811614" name="m233811614" >yss.acs.ui.test.testcases.SecurAccoInfManagement_006:SecurAccoInfoManagement</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>账户利率信息管理</h1>
+<h2 id="m-1939874621" name="m-1939874621" >yss.acs.ui.test.testcases.AccIntRateInfo_007:setUp</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m582290474" name="m582290474" >yss.acs.ui.test.testcases.AccIntRateInfo_007:teardown</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m-833402430" name="m-833402430" >yss.acs.ui.test.testcases.AccIntRateInfo_007:AccIntRateInfo</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>一级清算信息管理</h1>
+<h2 id="m1993252228" name="m1993252228" >yss.acs.ui.test.testcases.PriClearInfManagement_008:setUp</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m220450027" name="m220450027" >yss.acs.ui.test.testcases.PriClearInfManagement_008:teardown</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m-1431335035" name="m-1431335035" >yss.acs.ui.test.testcases.PriClearInfManagement_008:PriClearInfManagement</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>友好账户信息管理</h1>
+<h2 id="m-2124464482" name="m-2124464482" >yss.acs.ui.test.testcases.FrienAccountInfo_009:setUp</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m397700613" name="m397700613" >yss.acs.ui.test.testcases.FrienAccountInfo_009:teardown</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m-814317002" name="m-814317002" >yss.acs.ui.test.testcases.FrienAccountInfo_009:FrienAccountInfo</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>业务方案信息管理</h1>
+<h2 id="m-1924866462" name="m-1924866462" >yss.acs.ui.test.testcases.BusiProManag_010:teardown</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m-152064261" name="m-152064261" >yss.acs.ui.test.testcases.BusiProManag_010:setUp</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m1283870170" name="m1283870170" >yss.acs.ui.test.testcases.BusiProManag_010:BusiProManag</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>产品关联业务方案信息管理</h1>
+<h2 id="m1241126140" name="m1241126140" >yss.acs.ui.test.testcases.ProductAssor_011:teardown</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m-1281038955" name="m-1281038955" >yss.acs.ui.test.testcases.ProductAssor_011:setUp</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m-403530899" name="m-403530899" >yss.acs.ui.test.testcases.ProductAssor_011:productAssor</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>科目方案</h1>
+<h2 id="m1241600322" name="m1241600322" >yss.acs.ui.test.testcases.SubjectPro_012:setUp</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m-531201879" name="m-531201879" >yss.acs.ui.test.testcases.SubjectPro_012:teardown</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m558651558" name="m558651558" >yss.acs.ui.test.testcases.SubjectPro_012:subjectpro</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>核算模板方案</h1>
+<h2 id="m-457152163" name="m-457152163" >yss.acs.ui.test.testcases.AccountStencilScheme_013:teardown</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m1315650038" name="m1315650038" >yss.acs.ui.test.testcases.AccountStencilScheme_013:setUp</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m140640461" name="m140640461" >yss.acs.ui.test.testcases.AccountStencilScheme_013:AccountStencilScheme</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>公共证券估值方案信息管理</h1>
+<h2 id="m2045672056" name="m2045672056" >yss.acs.ui.test.testcases.PublicZhengquanGuzhi_014:setUp</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m272869855" name="m272869855" >yss.acs.ui.test.testcases.PublicZhengquanGuzhi_014:teardown</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m-1500400080" name="m-1500400080" >yss.acs.ui.test.testcases.PublicZhengquanGuzhi_014:publicZhengquanGuzhi</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>产品证券估值方案信息管理</h1>
+<h2 id="m-1866282127" name="m-1866282127" >yss.acs.ui.test.testcases.ChanPinZhengQuanGuZhi_015:setUp</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m655882968" name="m655882968" >yss.acs.ui.test.testcases.ChanPinZhengQuanGuZhi_015:teardown</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m1932622787" name="m1932622787" >yss.acs.ui.test.testcases.ChanPinZhengQuanGuZhi_015:ChanPinZhengQuanGuZhi</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>公共债券估值方案管理</h1>
+<h2 id="m1103494218" name="m1103494218" >yss.acs.ui.test.testcases.PublicBonds_016:setUp</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m-669307983" name="m-669307983" >yss.acs.ui.test.testcases.PublicBonds_016:teardown</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m-112829740" name="m-112829740" >yss.acs.ui.test.testcases.PublicBonds_016:publicBonds</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>产品债券估值方案管理</h1>
+<h2 id="m-1926348409" name="m-1926348409" >yss.acs.ui.test.testcases.ProductBonds_017:setUp</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m595816686" name="m595816686" >yss.acs.ui.test.testcases.ProductBonds_017:teardown</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m-1048041141" name="m-1048041141" >yss.acs.ui.test.testcases.ProductBonds_017:productBonds</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>核算交易流水数据处理</h1>
+<h2 id="m773197384" name="m773197384" >yss.acs.ui.test.testcases.DataChange_018:teardown</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m-1748967711" name="m-1748967711" >yss.acs.ui.test.testcases.DataChange_018:setUp</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m-1858293565" name="m-1858293565" >yss.acs.ui.test.testcases.DataChange_018:DC</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>场内证券流水管理</h1>
+<h2 id="m-1187369039" name="m-1187369039" >yss.acs.ui.test.testcases.ChangNeiZhengQuan_019:teardown</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m585433162" name="m585433162" >yss.acs.ui.test.testcases.ChangNeiZhengQuan_019:setUp</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m478178959" name="m478178959" >yss.acs.ui.test.testcases.ChangNeiZhengQuan_019:CNZQ</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>场外回购交易信息管理</h1>
+<h2 id="m1170932949" name="m1170932949" >yss.acs.ui.test.testcases.BuyBackDeal_020:setUp</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m-601869252" name="m-601869252" >yss.acs.ui.test.testcases.BuyBackDeal_020:teardown</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m2063234257" name="m2063234257" >yss.acs.ui.test.testcases.BuyBackDeal_020:buyBackDeal</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>场外债券交易信息管理</h1>
+<h2 id="m1630880660" name="m1630880660" >yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021:teardown</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m-891284435" name="m-891284435" >yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021:setUp</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m-2107608393" name="m-2107608393" >yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021:publicBonds</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>证券流通信息管理</h1>
+<h2 id="m115555162" name="m115555162" >yss.acs.ui.test.testcases.ZhengQaunLiuTong_022:teardown</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m1888357363" name="m1888357363" >yss.acs.ui.test.testcases.ZhengQaunLiuTong_022:setUp</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m-1712329198" name="m-1712329198" >yss.acs.ui.test.testcases.ZhengQaunLiuTong_022:zhengQuanLiuTong_022</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>证券转换业务信息管理</h1>
+<h2 id="m-681060722" name="m-681060722" >yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023:setUp</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m1841104373" name="m1841104373" >yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023:teardown</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m1221647902" name="m1221647902" >yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023:zhengQuanZhuanHuan</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>开放式基金业务信息管</h1>
+<h2 id="m-1095756367" name="m-1095756367" >yss.acs.ui.test.testcases.OpenBusinessManage_024:setUp</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m1426408728" name="m1426408728" >yss.acs.ui.test.testcases.OpenBusinessManage_024:teardown</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m156139843" name="m156139843" >yss.acs.ui.test.testcases.OpenBusinessManage_024:openBusinessManage</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>资产估值表</h1>
+<h2 id="m485439533" name="m485439533" >yss.acs.ui.test.testcases.AssetValuTable_025:setUp</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m-1287362668" name="m-1287362668" >yss.acs.ui.test.testcases.AssetValuTable_025:teardown</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m-1043675302" name="m-1043675302" >yss.acs.ui.test.testcases.AssetValuTable_025:AssetValuTable</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>资产余额表</h1>
+<h2 id="m152528159" name="m152528159" >yss.acs.ui.test.testcases.ZiChanYuEBiao_026:setUp</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m-1620274042" name="m-1620274042" >yss.acs.ui.test.testcases.ZiChanYuEBiao_026:teardown</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m182368031" name="m182368031" >yss.acs.ui.test.testcases.ZiChanYuEBiao_026:ziChanYuEBiao</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>核算处理</h1>
+<h2 id="m2122866500" name="m2122866500" >yss.acs.ui.test.testcases.HeSuanChuLi_027:setUp</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m350064299" name="m350064299" >yss.acs.ui.test.testcases.HeSuanChuLi_027:teardown</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m272385416" name="m272385416" >yss.acs.ui.test.testcases.HeSuanChuLi_027:HeSuanChuLi</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>凭证维护</h1>
+<h2 id="m-1336417865" name="m-1336417865" >yss.acs.ui.test.testcases.PingZhengWeiHu_028:teardown</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m436384336" name="m436384336" >yss.acs.ui.test.testcases.PingZhengWeiHu_028:setUp</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m1006881693" name="m1006881693" >yss.acs.ui.test.testcases.PingZhengWeiHu_028:PingZhengWeiHu</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>日记账簿信息</h1>
+<h2 id="m-1757879540" name="m-1757879540" >yss.acs.ui.test.testcases.RiJiZhangBuXinXi_029:setUp</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m764285555" name="m764285555" >yss.acs.ui.test.testcases.RiJiZhangBuXinXi_029:teardown</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m2088985300" name="m2088985300" >yss.acs.ui.test.testcases.RiJiZhangBuXinXi_029:RiJiZhangBuXinXi</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>核算账务锁定</h1>
+<h2 id="m-1192261174" name="m-1192261174" >yss.acs.ui.test.testcases.HeSuanZhangWuSuoDing_030:setUp</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m229768617" name="m229768617" >yss.acs.ui.test.testcases.HeSuanZhangWuSuoDing_030:afterSuite</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m1329903921" name="m1329903921" >yss.acs.ui.test.testcases.HeSuanZhangWuSuoDing_030:teardown</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m-156478278" name="m-156478278" >yss.acs.ui.test.testcases.HeSuanZhangWuSuoDing_030:HeSuanZhangWuSuoDing</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+</body></html>

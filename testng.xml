@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="核算、清算冒烟测试" verbose="1" parallel="methods" thread-count="1">
+
+	<listeners>
+	<!--  <listener class-name="com.testng.plugins.arrow.TestResultListener" />-->
+	<listener class-name="com.testng.plugins.arrow.RetryListener" />
+	<listener class-name="yss.acs.ui.utils.ExcelReporter" /> 
+	<listener class-name="com.testng.plugins.arrow.PowerEmailableReporter" />
+	<!--  <listener class-name="yss.acs.ui.utils.TestNGListener" />--> 
+	</listeners>
+	
+	<test name="产品基本信息管理" preserve-order="true">
+		<parameter name="URL" value="http://testng.org/" />
+		<classes>
+			<class name="yss.acs.ui.test.testcases.ProductBasic_001"></class>
+		</classes>
+	</test>
+	<test name="产品扩展信息管理" preserve-order="true">
+		<classes>
+			<class name="yss.acs.ui.test.testcases.ProductExtends_002"></class>
+		</classes>
+	</test>
+	<test name="资金账户信息管理" preserve-order="true">
+		<classes>
+			<class name="yss.acs.ui.test.testcases.CapitalAccount_003"></class>
+		</classes>
+	</test>
+	<test name="产品交易单元关联信息管理" preserve-order="true">
+		<classes>
+			<class name="yss.acs.ui.test.testcases.ProductDealUitl_004"></class>
+		</classes>
+	</test>
+	<test name="交易单元信息管理" preserve-order="true">
+		<classes>
+			<class name="yss.acs.ui.test.testcases.JiYiDanYuan_005"></class>
+		</classes>
+	</test>
+	<test name="证券账户信息管理" preserve-order="true">
+		<classes>
+			<class name="yss.acs.ui.test.testcases.SecurAccoInfManagement_006"></class>
+		</classes>
+	</test>
+	<test name="账户利率信息管理" preserve-order="true">
+		<classes>
+			<class name="yss.acs.ui.test.testcases.AccIntRateInfo_007"></class>
+		</classes>
+	</test>
+	<test name="一级清算信息管理" preserve-order="true">
+		<classes>
+			<class name="yss.acs.ui.test.testcases.PriClearInfManagement_008"></class>
+		</classes>
+	</test>
+	<test name="友好账户信息管理" preserve-order="true">
+		<classes>
+			<class name="yss.acs.ui.test.testcases.FrienAccountInfo_009"></class>
+		</classes>
+	</test>
+	<test name="业务方案信息管理" preserve-order="true">
+		<classes>
+			<class name="yss.acs.ui.test.testcases.BusiProManag_010"></class>
+		</classes>
+	</test>
+	<test name="产品关联业务方案信息管理" preserve-order="true">
+		<classes>
+			<class name="yss.acs.ui.test.testcases.ProductAssor_011"></class>
+		</classes>
+	</test>
+	<test name="科目方案" preserve-order="true">
+		<classes>
+			<class name="yss.acs.ui.test.testcases.SubjectPro_012"></class>
+		</classes>
+	</test>
+	<test name="核算模板方案" preserve-order="true">
+		<classes>
+			<class name="yss.acs.ui.test.testcases.AccountStencilScheme_013"></class>
+		</classes>
+	</test>
+	<test name="公共证券估值方案信息管理" preserve-order="true">
+		<classes>
+			<class name="yss.acs.ui.test.testcases.PublicZhengquanGuzhi_014"></class>
+		</classes>
+	</test>
+	<test name="产品证券估值方案信息管理" preserve-order="true">
+		<classes>
+			<class name="yss.acs.ui.test.testcases.ChanPinZhengQuanGuZhi_015"></class>
+		</classes>
+	</test>
+	<test name="公共债券估值方案管理" preserve-order="true">
+		<classes>
+			<class name="yss.acs.ui.test.testcases.PublicBonds_016"></class>
+		</classes>
+	</test>
+	<test name="产品债券估值方案管理" preserve-order="true">
+		<classes>
+			<class name="yss.acs.ui.test.testcases.ProductBonds_017"></class>
+		</classes>
+	</test>
+	<test name="核算交易流水数据处理" preserve-order="true">
+		<classes>
+			<class name="yss.acs.ui.test.testcases.DataChange_018"></class>
+		</classes>
+	</test>
+	<test name="场内证券流水管理" preserve-order="true">
+		<classes>
+			<class name="yss.acs.ui.test.testcases.ChangNeiZhengQuan_019"></class>
+		</classes>
+	</test>
+	<test name="场外回购交易信息管理" preserve-order="true">
+		<classes>
+			<class name="yss.acs.ui.test.testcases.BuyBackDeal_020"></class>
+		</classes>
+	</test>
+	<test name="场外债券交易信息管理" preserve-order="true">
+		<classes>
+			<class name="yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021"></class>
+		</classes>
+	</test>
+	<test name="证券流通信息管理" preserve-order="true">
+		<classes>
+			<class name="yss.acs.ui.test.testcases.ZhengQaunLiuTong_022"></class>
+		</classes>
+	</test>
+	<test name="证券转换业务信息管理" preserve-order="true">
+		<classes>
+			<class name="yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023"></class>
+		</classes>
+	</test>
+	<test name="开放式基金业务信息管" preserve-order="true">
+		<classes>
+			<class name="yss.acs.ui.test.testcases.OpenBusinessManage_024"></class>
+		</classes>
+	</test>
+	<test name="资产估值表" preserve-order="true">
+		<classes>
+			<class name="yss.acs.ui.test.testcases.AssetValuTable_025"></class>
+		</classes>
+	</test>
+	<test name="资产余额表" preserve-order="true">
+		<classes>
+			<class name="yss.acs.ui.test.testcases.ZiChanYuEBiao_026"></class>
+		</classes>
+	</test>
+	<test name="核算处理" preserve-order="true">
+		<classes>
+			<class name="yss.acs.ui.test.testcases.HeSuanChuLi_027"></class>
+		</classes>
+	</test>
+	<test name="凭证维护" preserve-order="true">
+		<classes>
+			<class name="yss.acs.ui.test.testcases.PingZhengWeiHu_028"></class>
+		</classes>
+	</test>
+	<test name="日记账簿信息" preserve-order="true">
+		<classes>
+			<class name="yss.acs.ui.test.testcases.RiJiZhangBuXinXi_029"></class>
+		</classes>
+	</test>
+	<test name="核算账务锁定" preserve-order="true">
+		<classes>
+			<class name="yss.acs.ui.test.testcases.HeSuanZhangWuSuoDing_030"></class>
+		</classes>
+	</test>
+	
+	
+	<!--  <test name="产品基本信息管理1" preserve-order="false">
+		<parameter name="URL" value="http://testng.org/" />
+		<classes>
+			<class name="yss.acs.ui.test.testcases.ProductBasic_001"></class>
+		</classes>
+	</test>-->
+	
+
+	<!--  <test name="产品基本信息管理1" preserve-order="false"> -->
+		<!--  <parameter name="URL" value="http://testng.org/" />
+		<classes>
+			<class name="yss.acs.ui.test.testcases.ProductBasic_001"></class> -->
+		
+  <!-- <test name="跑账回归测试" preserve-order="true"> -->
+	<!-- <parameter name="URL" value="http://testng.org/" /> -->
+    <!--<classes>
+       <class name="yss.acs.ui.test.testcases.DataChangeTestcases"></class>
+    </classes> -->
+    <!--  <test name="ETF套利" preserve-order="true">
+        <classes>
+             <class name="yss.acs.ui.test.testcases.DataImportTestcases"></class>
+        </classes>  
+    </test>  -->
+    
+   <!--  <packages><package name="com.api.nbh.testcases"></package></packages> -->
+  <!--</test> -->
+
+</suite>

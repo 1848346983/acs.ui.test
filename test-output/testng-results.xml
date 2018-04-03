@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="55780" started-at="2017-09-22T02:30:25Z" finished-at="2017-09-22T02:31:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="55780" started-at="2017-09-22T02:30:25Z" finished-at="2017-09-22T02:31:21Z">
+      <class name="yss.acs.ui.test.testcases.ProductExtends_002">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:yss.acs.ui.test.testcases.ProductExtends_002@4493d195]" name="setUp" is-config="true" duration-ms="13751" started-at="2017-09-22T10:30:25Z" finished-at="2017-09-22T10:30:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="productExtends()[pri:0, instance:yss.acs.ui.test.testcases.ProductExtends_002@4493d195]" name="productExtends" duration-ms="38534" started-at="2017-09-22T10:30:39Z" finished-at="2017-09-22T10:31:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productExtends -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:yss.acs.ui.test.testcases.ProductExtends_002@4493d195]" name="teardown" is-config="true" duration-ms="3480" started-at="2017-09-22T10:31:18Z" finished-at="2017-09-22T10:31:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- yss.acs.ui.test.testcases.ProductExtends_002 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

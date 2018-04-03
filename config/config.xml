@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <browser>chrome</browser>
+    <waitTime>8</waitTime>
+    <host>http://192.168.103.96:7001/acs</host>
+    <ftpPath>/home/7001</ftpPath>
+    <pageObjectFilePath>raw/PageObjectAcs.xlsx</pageObjectFilePath>
+    <testcasesFilePath>raw/数据驱动.xlsx</testcasesFilePath>
+</config>

@@ -1,0 +1,122 @@
+[2017-09-15 15:03:30] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-09-15 15:03:31] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-09-15 15:03:32] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-09-15 15:03:35] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-09-15 15:15:03] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-09-15 15:15:04] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-09-15 15:15:06] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-09-15 15:15:09] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-09-15 15:21:10] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-09-15 15:21:11] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-09-15 15:21:12] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-09-15 15:21:15] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-09-15 15:24:12] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-09-15 15:24:13] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-09-15 15:24:14] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-09-15 15:24:17] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-09-15 15:26:32] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-09-15 15:26:33] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-09-15 15:26:35] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-09-15 15:26:38] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-09-15 15:34:12] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-09-15 15:34:13] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-09-15 15:34:14] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-09-15 15:34:17] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-09-15 15:39:14] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-09-15 15:39:15] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-09-15 15:39:16] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-09-15 15:39:19] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-09-15 15:39:22] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P001 : 选择“核算估值”操作  执行完毕！
+[2017-09-15 15:39:46] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:77] 寻找页面元素 : By.xpath: .//div[@title='流水组件（1.0.2）']/span[2] 超时!
+[2017-09-15 15:42:17] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-09-15 15:42:18] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-09-15 15:42:20] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-09-15 15:42:23] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-09-15 15:42:25] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P001 : 选择“核算估值”操作  执行完毕！
+[2017-09-15 15:42:55] [yss.acs.ui.utils.MyEventListener][行:37] 等待元素展示...xpath = .//div[@title='流水组件（1.0.2）']/span[2]"
+[2017-09-15 15:42:55] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:77] 寻找页面元素 : By.xpath: .//div[@title='流水组件（1.0.2）']/span[2] 超时!
+[2017-09-15 15:42:56] [yss.acs.ui.utils.MyEventListener][行:50] >>>>>>>>>>LOGS: ScreenShot Path : test-output/ScreenShot/2017-09-15/15-42-55_unknown_error_Cannot_read_property_'click'_of_null.png
+[2017-09-15 15:44:40] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-09-15 15:44:41] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-09-15 15:44:43] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-09-15 15:44:46] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-09-15 15:44:48] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P001 : 选择“核算估值”操作  执行完毕！
+[2017-09-15 15:44:49] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P002 :   执行完毕！
+[2017-09-15 15:44:51] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P003 :   执行完毕！
+[2017-09-15 15:44:52] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P004 : 点击进入产品计息信息管理页面  执行完毕！
+[2017-09-15 15:56:45] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-09-15 15:56:46] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-09-15 15:56:47] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-09-15 15:56:50] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-09-15 15:56:53] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P001 : 选择“核算估值”操作  执行完毕！
+[2017-09-15 15:56:54] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P002 :   执行完毕！
+[2017-09-15 15:56:56] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P003 :   执行完毕！
+[2017-09-15 15:56:57] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P004 : 点击进入产品计息信息管理页面  执行完毕！
+[2017-09-15 15:58:33] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-09-15 15:58:34] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-09-15 15:58:35] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-09-15 15:58:38] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-09-15 15:58:41] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P001 : 选择“核算估值”操作  执行完毕！
+[2017-09-15 15:58:42] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P002 :   执行完毕！
+[2017-09-15 15:58:43] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P003 :   执行完毕！
+[2017-09-15 15:58:44] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P004 : 点击进入产品计息信息管理页面  执行完毕！
+[2017-09-15 15:58:45] [yss.acs.ui.utils.MyEventListener][行:50] >>>>>>>>>>LOGS: ScreenShot Path : test-output/ScreenShot/2017-09-15/15-58-44_invalid_selector_Unable_to_locate_an_element_with_the_xpath_expression_.//div[@id=x-form-el-fproduct']//ul[contains(@class,'chosen-choices')]_because_of_the_following_error.png
+[2017-09-15 15:58:46] [yss.acs.ui.utils.MyEventListener][行:50] >>>>>>>>>>LOGS: ScreenShot Path : test-output/ScreenShot/2017-09-15/15-58-46_invalid_selector_Unable_to_locate_an_element_with_the_xpath_expression_.//div[@id=x-form-el-fproduct']//ul[contains(@class,'chosen-choices')]_because_of_the_following_error.png
+[2017-09-15 15:58:47] [yss.acs.ui.utils.MyEventListener][行:50] >>>>>>>>>>LOGS: ScreenShot Path : test-output/ScreenShot/2017-09-15/15-58-47_invalid_selector_Unable_to_locate_an_element_with_the_xpath_expression_.//div[@id=x-form-el-fproduct']//ul[contains(@class,'chosen-choices')]_because_of_the_following_error.png
+[2017-09-15 15:58:48] [yss.acs.ui.utils.MyEventListener][行:50] >>>>>>>>>>LOGS: ScreenShot Path : test-output/ScreenShot/2017-09-15/15-58-48_invalid_selector_Unable_to_locate_an_element_with_the_xpath_expression_.//div[@id=x-form-el-fproduct']//ul[contains(@class,'chosen-choices')]_because_of_the_following_error.png
+[2017-09-15 15:58:50] [yss.acs.ui.utils.MyEventListener][行:50] >>>>>>>>>>LOGS: ScreenShot Path : test-output/ScreenShot/2017-09-15/15-58-49_invalid_selector_Unable_to_locate_an_element_with_the_xpath_expression_.//div[@id=x-form-el-fproduct']//ul[contains(@class,'chosen-choices')]_because_of_the_following_error.png
+[2017-09-15 15:58:51] [yss.acs.ui.utils.MyEventListener][行:50] >>>>>>>>>>LOGS: ScreenShot Path : test-output/ScreenShot/2017-09-15/15-58-51_invalid_selector_Unable_to_locate_an_element_with_the_xpath_expression_.//div[@id=x-form-el-fproduct']//ul[contains(@class,'chosen-choices')]_because_of_the_following_error.png
+[2017-09-15 15:58:52] [yss.acs.ui.utils.MyEventListener][行:50] >>>>>>>>>>LOGS: ScreenShot Path : test-output/ScreenShot/2017-09-15/15-58-52_invalid_selector_Unable_to_locate_an_element_with_the_xpath_expression_.//div[@id=x-form-el-fproduct']//ul[contains(@class,'chosen-choices')]_because_of_the_following_error.png
+[2017-09-15 15:58:53] [yss.acs.ui.utils.MyEventListener][行:50] >>>>>>>>>>LOGS: ScreenShot Path : test-output/ScreenShot/2017-09-15/15-58-53_invalid_selector_Unable_to_locate_an_element_with_the_xpath_expression_.//div[@id=x-form-el-fproduct']//ul[contains(@class,'chosen-choices')]_because_of_the_following_error.png
+[2017-09-15 15:58:53] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:77] 寻找页面元素 : By.xpath: .//div[@id=x-form-el-fproduct']//ul[contains(@class,'chosen-choices')] 超时!
+[2017-09-15 15:58:53] [yss.acs.ui.utils.MyEventListener][行:50] >>>>>>>>>>LOGS: ScreenShot Path : test-output/ScreenShot/2017-09-15/15-58-53_unknown_error_Cannot_read_property_'click'_of_null.png
+[2017-09-15 16:10:28] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-09-15 16:10:29] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-09-15 16:10:30] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-09-15 16:10:33] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-09-15 16:10:36] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P001 : 选择“核算估值”操作  执行完毕！
+[2017-09-15 16:10:37] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P002 :   执行完毕！
+[2017-09-15 16:10:39] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P003 :   执行完毕！
+[2017-09-15 16:10:40] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P004 : 点击进入产品计息信息管理页面  执行完毕！
+[2017-09-15 16:11:10] [yss.acs.ui.utils.MyEventListener][行:37] 等待元素展示...xpath = .//div[@class='x-form-el-fproduct']//span[@class='chosen-container chosen-container-multi chosen-container-active']"
+[2017-09-15 16:11:10] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:77] 寻找页面元素 : By.xpath: .//div[@class='x-form-el-fproduct']//span[@class='chosen-container chosen-container-multi chosen-container-active'] 超时!
+[2017-09-15 16:11:10] [yss.acs.ui.utils.MyEventListener][行:50] >>>>>>>>>>LOGS: ScreenShot Path : test-output/ScreenShot/2017-09-15/16-11-10_unknown_error_Cannot_read_property_'click'_of_null.png
+[2017-09-15 16:14:09] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-09-15 16:14:10] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-09-15 16:14:12] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-09-15 16:14:15] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-09-15 16:14:17] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P001 : 选择“核算估值”操作  执行完毕！
+[2017-09-15 16:14:18] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P002 :   执行完毕！
+[2017-09-15 16:14:20] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P003 :   执行完毕！
+[2017-09-15 16:14:21] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P004 : 点击进入产品计息信息管理页面  执行完毕！
+[2017-09-15 16:16:59] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-09-15 16:17:00] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-09-15 16:17:01] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-09-15 16:17:04] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-09-15 16:17:07] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P001 : 选择“核算估值”操作  执行完毕！
+[2017-09-15 16:17:08] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P002 :   执行完毕！
+[2017-09-15 16:17:10] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P003 :   执行完毕！
+[2017-09-15 16:17:11] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P004 : 点击进入产品计息信息管理页面  执行完毕！
+[2017-09-15 16:17:41] [yss.acs.ui.utils.MyEventListener][行:37] 等待元素展示...xpath = .//div[@class='sofa-listview-zoom']/input[@class='x-form-text x-form-field']"
+[2017-09-15 16:17:41] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:77] 寻找页面元素 : By.xpath: .//div[@class='sofa-listview-zoom']/input[@class='x-form-text x-form-field'] 超时!
+[2017-09-15 16:20:40] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-09-15 16:20:41] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-09-15 16:20:42] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-09-15 16:20:45] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-09-15 16:20:48] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P001 : 选择“核算估值”操作  执行完毕！
+[2017-09-15 16:20:49] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P002 :   执行完毕！
+[2017-09-15 16:20:51] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P003 :   执行完毕！
+[2017-09-15 16:20:52] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P004 : 点击进入产品计息信息管理页面  执行完毕！
+[2017-09-15 16:21:22] [yss.acs.ui.utils.MyEventListener][行:37] 等待元素展示...xpath = .//div[@class='x-form-el-fproduct']/div[@class='x-form-field-wrap x-form-field-trigger-wrap']"
+[2017-09-15 16:21:22] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:77] 寻找页面元素 : By.xpath: .//div[@class='x-form-el-fproduct']/div[@class='x-form-field-wrap x-form-field-trigger-wrap'] 超时!
+[2017-09-15 16:21:22] [yss.acs.ui.utils.MyEventListener][行:50] >>>>>>>>>>LOGS: ScreenShot Path : test-output/ScreenShot/2017-09-15/16-21-22_unknown_error_Cannot_read_property_'click'_of_null.png
+[2017-09-15 16:27:44] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-09-15 16:27:45] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-09-15 16:27:46] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-09-15 16:27:49] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-09-15 16:27:52] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P001 : 选择“核算估值”操作  执行完毕！
+[2017-09-15 16:27:53] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P002 :   执行完毕！
+[2017-09-15 16:27:55] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P003 :   执行完毕！
+[2017-09-15 16:27:56] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P004 : 点击进入产品计息信息管理页面  执行完毕！
+[2017-09-15 16:27:57] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P005 : 输入产品名称  执行完毕！
+[2017-09-15 16:28:11] [yss.acs.ui.utils.MyEventListener][行:50] >>>>>>>>>>LOGS: ScreenShot Path : test-output/ScreenShot/2017-09-15/16-28-11_invalid_element_state_Element_is_not_currently_interactable_and_may_not_be_manipulated.png

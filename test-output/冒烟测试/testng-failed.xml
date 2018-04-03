@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [冒烟测试]">
+  <listeners>
+    <listener class-name="com.testng.plugins.arrow.RetryListener"/>
+    <listener class-name="yss.acs.ui.utils.ExcelReporter"/>
+    <listener class-name="com.testng.plugins.arrow.PowerEmailableReporter"/>
+  </listeners>
+  <test name="跑账回归测试(failed)">
+    <classes>
+      <class name="yss.acs.ui.test.testcases.DataChangeTestcases">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="AfterClass"/>
+          <include name="DC"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- yss.acs.ui.test.testcases.DataChangeTestcases -->
+    </classes>
+  </test> <!-- 跑账回归测试(failed) -->
+</suite> <!-- Failed suite [冒烟测试] -->

@@ -1,0 +1,36 @@
+[2017-08-24 11:10:08] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-24 11:10:09] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-24 11:10:11] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-24 11:10:14] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-24 11:10:16] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P001 : 显示搜索框  执行完毕！
+[2017-08-24 11:10:46] [yss.acs.ui.utils.MyEventListener][行:37] 等待元素展示...xpath = .//*[@class='x-form-field-wrap x-form-field-trigger-wrap x-trigger-wrap-focus']"
+[2017-08-24 11:10:46] [yss.acs.ui.test.testcases.ProductBasic_001][行:77] 寻找页面元素 : By.xpath: .//*[@class='x-form-field-wrap x-form-field-trigger-wrap x-trigger-wrap-focus'] 超时!
+[2017-08-24 11:10:47] [yss.acs.ui.utils.MyEventListener][行:50] >>>>>>>>>>LOGS: ScreenShot Path : test-output/ScreenShot/2017-08-24/11-10-46_unknown_error_Cannot_read_property_'click'_of_null.png
+[2017-08-24 11:10:49] [myutils.common.MailUtils][行:210] 跑账测试结果 -- 2017年08月24日 邮件发送成功!
+[2017-08-24 11:10:49] [yss.acs.ui.test.base.TestCasesBase][行:119] 邮件已发送，请注意查收！...
+[2017-08-24 11:13:17] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-24 11:13:18] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-24 11:13:22] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-24 11:13:25] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-24 11:13:28] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P001 : 显示搜索框  执行完毕！
+[2017-08-24 11:13:29] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P002 : 点击搜索框  执行完毕！
+[2017-08-24 11:13:47] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P003 : 输入数据  执行完毕！
+[2017-08-24 11:13:49] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P004 : 点击数据  执行完毕！
+[2017-08-24 11:13:52] [myutils.common.MailUtils][行:210] 跑账测试结果 -- 2017年08月24日 邮件发送成功!
+[2017-08-24 11:13:52] [yss.acs.ui.test.base.TestCasesBase][行:119] 邮件已发送，请注意查收！...
+[2017-08-24 11:16:21] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-24 11:16:22] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-24 11:16:24] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-24 11:16:27] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-24 11:16:30] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P001 : 显示搜索框  执行完毕！
+[2017-08-24 11:16:55] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P002 : 点击搜索框  执行完毕！
+[2017-08-24 11:17:03] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P003 : 输入数据  执行完毕！
+[2017-08-24 11:17:05] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P004 : 点击数据  执行完毕！
+[2017-08-24 11:25:14] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-24 11:25:15] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-24 11:25:19] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-24 11:25:22] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-24 11:25:25] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P001 : 显示搜索框  执行完毕！
+[2017-08-24 11:25:26] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P002 : 点击搜索框  执行完毕！
+[2017-08-24 11:25:32] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P003 : 输入数据  执行完毕！
+[2017-08-24 11:25:34] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P004 : 点击数据  执行完毕！

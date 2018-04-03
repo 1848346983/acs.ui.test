@@ -1,0 +1,22 @@
+[2017-09-22 09:43:08] [yss.acs.ui.utils.MyEventListener][行:37] 等待元素展示...xpath = .//*[@id='username']"
+[2017-09-22 09:43:09] [yss.acs.ui.utils.MyEventListener][行:37] 等待元素展示...xpath = .//*[@id='username']"
+[2017-09-22 09:43:10] [yss.acs.ui.utils.MyEventListener][行:37] 等待元素展示...xpath = .//*[@id='username']"
+[2017-09-22 09:43:19] [yss.acs.ui.test.base.TestCasesBase][行:77] 寻找页面元素 : By.xpath: .//*[@id='username'] 超时!
+[2017-09-22 10:02:28] [yss.acs.ui.utils.MyEventListener][行:37] 等待元素展示...xpath = .//*[@id='username']"
+[2017-09-22 10:02:29] [yss.acs.ui.utils.MyEventListener][行:37] 等待元素展示...xpath = .//*[@id='username']"
+[2017-09-22 10:02:30] [yss.acs.ui.utils.MyEventListener][行:37] 等待元素展示...xpath = .//*[@id='username']"
+[2017-09-22 10:02:31] [yss.acs.ui.utils.MyEventListener][行:37] 等待元素展示...xpath = .//*[@id='username']"
+[2017-09-22 10:02:32] [yss.acs.ui.utils.MyEventListener][行:37] 等待元素展示...xpath = .//*[@id='username']"
+[2017-09-22 10:02:33] [yss.acs.ui.utils.MyEventListener][行:37] 等待元素展示...xpath = .//*[@id='username']"
+[2017-09-22 10:02:34] [yss.acs.ui.utils.MyEventListener][行:37] 等待元素展示...xpath = .//*[@id='username']"
+[2017-09-22 10:02:35] [yss.acs.ui.utils.MyEventListener][行:37] 等待元素展示...xpath = .//*[@id='username']"
+[2017-09-22 10:02:36] [yss.acs.ui.utils.MyEventListener][行:37] 等待元素展示...xpath = .//*[@id='username']"
+[2017-09-22 10:02:36] [yss.acs.ui.test.base.TestCasesBase][行:77] 寻找页面元素 : By.xpath: .//*[@id='username'] 超时!
+[2017-09-22 10:02:36] [yss.acs.ui.utils.MyEventListener][行:50] >>>>>>>>>>LOGS: ScreenShot Path : test-output/ScreenShot/2017-09-22/10-02-36_unknown_error_Cannot_set_property_'value'_of_null.png
+[2017-09-22 10:25:36] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-09-22 10:25:37] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-09-22 10:25:38] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-09-22 10:25:41] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-09-22 10:25:44] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P001 : 选择“核算估值”操作  执行完毕！
+[2017-09-22 10:25:45] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P002 :   执行完毕！
+[2017-09-22 10:25:47] [yss.acs.ui.test.testcases.ProductControlinfo_031][行:408] 步骤  P003 :   执行完毕！

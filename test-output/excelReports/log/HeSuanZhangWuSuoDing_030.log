@@ -1,0 +1,925 @@
+[2017-08-23 10:55:03] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 10:55:04] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 10:55:06] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 10:55:09] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-23 10:55:12] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 10:55:13] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 10:55:14] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 10:55:15] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P004 :   执行完毕！
+[2017-08-23 10:55:21] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P046 :   执行完毕！
+[2017-08-23 10:55:26] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P047 :   执行完毕！
+[2017-08-23 10:55:28] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P048 :   执行完毕！
+[2017-08-23 10:55:29] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P049 :   执行完毕！
+[2017-08-23 10:55:32] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P050 :   执行完毕！
+[2017-08-23 10:55:33] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P051 :   执行完毕！
+[2017-08-23 10:55:34] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P052 :   执行完毕！
+[2017-08-23 10:55:39] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P053 :   执行完毕！
+[2017-08-23 10:55:40] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P054 :   执行完毕！
+[2017-08-23 10:55:41] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P055 :   执行完毕！
+[2017-08-23 10:55:45] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P056 :   执行完毕！
+[2017-08-23 10:55:46] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P057 :   执行完毕！
+[2017-08-23 10:55:47] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P058 :   执行完毕！
+[2017-08-23 10:55:50] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P059 :   执行完毕！
+[2017-08-23 10:55:51] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P060 :   执行完毕！
+[2017-08-23 10:55:52] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P061 :   执行完毕！
+[2017-08-23 10:55:54] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P062 :   执行完毕！
+[2017-08-23 10:55:55] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P063 : 点击快速下载  执行完毕！
+[2017-08-23 10:55:57] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P064 : 等待2秒  执行完毕！
+[2017-08-23 10:55:58] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P065 : 选择excel  执行完毕！
+[2017-08-23 10:56:00] [yss.acs.ui.test.testcases.ProductBasic_001][行:408] 步骤  P066 : 等待  执行完毕！
+[2017-08-23 10:56:09] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 10:56:10] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 10:56:11] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 10:56:15] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-23 10:56:17] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 10:56:18] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 10:56:20] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 10:56:21] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P004 :   执行完毕！
+[2017-08-23 10:56:22] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P029 : 全选  执行完毕！
+[2017-08-23 10:56:25] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P030 :   执行完毕！
+[2017-08-23 10:56:26] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P031 :   执行完毕！
+[2017-08-23 10:56:27] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P032 :   执行完毕！
+[2017-08-23 10:56:29] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P033 :   执行完毕！
+[2017-08-23 10:56:30] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P034 :   执行完毕！
+[2017-08-23 10:56:31] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P035 :   执行完毕！
+[2017-08-23 10:56:32] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P036 :   执行完毕！
+[2017-08-23 10:56:32] [yss.acs.ui.test.testcases.ProductExtends_002][行:321] 开始等待元素.//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="审核成功！"]出现，超时时间为 : 5秒
+[2017-08-23 10:56:32] [yss.acs.ui.test.testcases.ProductExtends_002][行:328] 等待操作完成，元素XPath = .//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="审核成功！"]
+[2017-08-23 10:56:34] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P037 :   执行完毕！
+[2017-08-23 10:56:35] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P038 :   执行完毕！
+[2017-08-23 10:56:37] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P039 :   执行完毕！
+[2017-08-23 10:56:38] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P040 : 全选  执行完毕！
+[2017-08-23 10:56:41] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P041 :   执行完毕！
+[2017-08-23 10:56:42] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P042 :   执行完毕！
+[2017-08-23 10:56:43] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P043 :   执行完毕！
+[2017-08-23 10:56:45] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P044 :   执行完毕！
+[2017-08-23 10:56:46] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P045 :   执行完毕！
+[2017-08-23 10:56:47] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P046 :   执行完毕！
+[2017-08-23 10:56:48] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P047 :   执行完毕！
+[2017-08-23 10:56:48] [yss.acs.ui.test.testcases.ProductExtends_002][行:321] 开始等待元素.//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="反审核成功"]出现，超时时间为 : 5秒
+[2017-08-23 10:56:48] [yss.acs.ui.test.testcases.ProductExtends_002][行:328] 等待操作完成，元素XPath = .//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="反审核成功"]
+[2017-08-23 10:56:50] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P048 :   执行完毕！
+[2017-08-23 10:56:51] [yss.acs.ui.test.testcases.ProductExtends_002][行:408] 步骤  P049 :   执行完毕！
+[2017-08-23 10:57:00] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 10:57:01] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 10:57:03] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 10:57:06] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-23 10:57:08] [yss.acs.ui.test.testcases.CapitalAccount_003][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 10:57:09] [yss.acs.ui.test.testcases.CapitalAccount_003][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 10:57:11] [yss.acs.ui.test.testcases.CapitalAccount_003][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 10:57:12] [yss.acs.ui.test.testcases.CapitalAccount_003][行:408] 步骤  P004 :   执行完毕！
+[2017-08-23 10:57:13] [yss.acs.ui.test.testcases.CapitalAccount_003][行:408] 步骤  P027 :   执行完毕！
+[2017-08-23 10:57:16] [yss.acs.ui.test.testcases.CapitalAccount_003][行:408] 步骤  P028 :   执行完毕！
+[2017-08-23 10:57:17] [yss.acs.ui.test.testcases.CapitalAccount_003][行:408] 步骤  P029 :   执行完毕！
+[2017-08-23 10:57:18] [yss.acs.ui.test.testcases.CapitalAccount_003][行:408] 步骤  P030 :   执行完毕！
+[2017-08-23 10:57:20] [yss.acs.ui.test.testcases.CapitalAccount_003][行:408] 步骤  P031 :   执行完毕！
+[2017-08-23 10:57:21] [yss.acs.ui.test.testcases.CapitalAccount_003][行:408] 步骤  P032 :   执行完毕！
+[2017-08-23 10:57:22] [yss.acs.ui.test.testcases.CapitalAccount_003][行:408] 步骤  P033 :   执行完毕！
+[2017-08-23 10:57:23] [yss.acs.ui.test.testcases.CapitalAccount_003][行:408] 步骤  P034 :   执行完毕！
+[2017-08-23 10:57:23] [yss.acs.ui.test.testcases.CapitalAccount_003][行:321] 开始等待元素.//*[@class=' x-window x-window-plain x-window-dlg']//*[text()=" 反审核成功 "]出现，超时时间为 : 5秒
+[2017-08-23 10:57:23] [yss.acs.ui.test.testcases.CapitalAccount_003][行:328] 等待操作完成，元素XPath = .//*[@class=' x-window x-window-plain x-window-dlg']//*[text()=" 反审核成功 "]
+[2017-08-23 10:57:25] [yss.acs.ui.test.testcases.CapitalAccount_003][行:408] 步骤  P035 :   执行完毕！
+[2017-08-23 10:57:27] [yss.acs.ui.test.testcases.CapitalAccount_003][行:408] 步骤  P036 :   执行完毕！
+[2017-08-23 10:57:29] [yss.acs.ui.test.testcases.CapitalAccount_003][行:408] 步骤  P037 :   执行完毕！
+[2017-08-23 10:57:30] [yss.acs.ui.test.testcases.CapitalAccount_003][行:408] 步骤  P038 :   执行完毕！
+[2017-08-23 10:57:32] [yss.acs.ui.test.testcases.CapitalAccount_003][行:408] 步骤  P039 :   执行完毕！
+[2017-08-23 10:57:33] [yss.acs.ui.test.testcases.CapitalAccount_003][行:408] 步骤  P040 :   执行完毕！
+[2017-08-23 10:57:34] [yss.acs.ui.test.testcases.CapitalAccount_003][行:408] 步骤  P041 :   执行完毕！
+[2017-08-23 10:57:36] [yss.acs.ui.test.testcases.CapitalAccount_003][行:408] 步骤  P042 :   执行完毕！
+[2017-08-23 10:57:37] [yss.acs.ui.test.testcases.CapitalAccount_003][行:408] 步骤  P043 :   执行完毕！
+[2017-08-23 10:57:38] [yss.acs.ui.test.testcases.CapitalAccount_003][行:408] 步骤  P044 :   执行完毕！
+[2017-08-23 10:57:40] [yss.acs.ui.test.testcases.CapitalAccount_003][行:408] 步骤  P045 :   执行完毕！
+[2017-08-23 10:57:40] [yss.acs.ui.test.testcases.CapitalAccount_003][行:321] 开始等待元素.//*[@class=' x-window x-window-plain x-window-dlg']//*[text()=" 审核成功 "]出现，超时时间为 : 5秒
+[2017-08-23 10:57:40] [yss.acs.ui.test.testcases.CapitalAccount_003][行:328] 等待操作完成，元素XPath = .//*[@class=' x-window x-window-plain x-window-dlg']//*[text()=" 审核成功 "]
+[2017-08-23 10:57:42] [yss.acs.ui.test.testcases.CapitalAccount_003][行:408] 步骤  P046 :   执行完毕！
+[2017-08-23 10:57:43] [yss.acs.ui.test.testcases.CapitalAccount_003][行:408] 步骤  P047 :   执行完毕！
+[2017-08-23 10:57:45] [yss.acs.ui.test.testcases.CapitalAccount_003][行:408] 步骤  P048 :   执行完毕！
+[2017-08-23 10:57:46] [yss.acs.ui.test.testcases.CapitalAccount_003][行:408] 步骤  P049 :   执行完毕！
+[2017-08-23 10:57:48] [yss.acs.ui.test.testcases.CapitalAccount_003][行:408] 步骤  P050 :   执行完毕！
+[2017-08-23 10:57:49] [yss.acs.ui.test.testcases.CapitalAccount_003][行:408] 步骤  P051 :   执行完毕！
+[2017-08-23 10:57:53] [yss.acs.ui.test.testcases.CapitalAccount_003][行:408] 步骤  P052 :   执行完毕！
+[2017-08-23 10:58:04] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 10:58:05] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 10:58:07] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 10:58:10] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-23 10:58:13] [yss.acs.ui.test.testcases.ProductDealUitl_004][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 10:58:14] [yss.acs.ui.test.testcases.ProductDealUitl_004][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 10:58:16] [yss.acs.ui.test.testcases.ProductDealUitl_004][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 10:58:17] [yss.acs.ui.test.testcases.ProductDealUitl_004][行:408] 步骤  P004 :   执行完毕！
+[2017-08-23 10:58:18] [yss.acs.ui.test.testcases.ProductDealUitl_004][行:408] 步骤  P018 :   执行完毕！
+[2017-08-23 10:58:20] [yss.acs.ui.test.testcases.ProductDealUitl_004][行:408] 步骤  P019 :   执行完毕！
+[2017-08-23 10:58:21] [yss.acs.ui.test.testcases.ProductDealUitl_004][行:408] 步骤  P020 :   执行完毕！
+[2017-08-23 10:58:22] [yss.acs.ui.test.testcases.ProductDealUitl_004][行:408] 步骤  P021 :   执行完毕！
+[2017-08-23 10:58:23] [yss.acs.ui.test.testcases.ProductDealUitl_004][行:408] 步骤  P022 :   执行完毕！
+[2017-08-23 10:58:25] [yss.acs.ui.test.testcases.ProductDealUitl_004][行:408] 步骤  P023 :   执行完毕！
+[2017-08-23 10:58:27] [yss.acs.ui.test.testcases.ProductDealUitl_004][行:408] 步骤  P024 :   执行完毕！
+[2017-08-23 10:58:28] [yss.acs.ui.test.testcases.ProductDealUitl_004][行:408] 步骤  P025 :   执行完毕！
+[2017-08-23 10:58:29] [yss.acs.ui.test.testcases.ProductDealUitl_004][行:408] 步骤  P026 :   执行完毕！
+[2017-08-23 10:58:30] [yss.acs.ui.test.testcases.ProductDealUitl_004][行:408] 步骤  P027 :   执行完毕！
+[2017-08-23 10:58:34] [yss.acs.ui.test.testcases.ProductDealUitl_004][行:408] 步骤  P028 :   执行完毕！
+[2017-08-23 10:58:43] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 10:58:44] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 10:58:46] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 10:58:49] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-23 10:58:51] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 10:58:52] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 10:58:54] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 10:58:55] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P004 :   执行完毕！
+[2017-08-23 10:58:56] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P017 :   执行完毕！
+[2017-08-23 10:58:58] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P018 :   执行完毕！
+[2017-08-23 10:59:00] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P019 :   执行完毕！
+[2017-08-23 10:59:01] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P020 :   执行完毕！
+[2017-08-23 10:59:03] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P021 :   执行完毕！
+[2017-08-23 10:59:04] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P022 :   执行完毕！
+[2017-08-23 10:59:05] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P012 :   执行完毕！
+[2017-08-23 10:59:06] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P013 :   执行完毕！
+[2017-08-23 10:59:06] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:321] 开始等待元素.//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="审核成功"]出现，超时时间为 : 5秒
+[2017-08-23 10:59:06] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:328] 等待操作完成，元素XPath = .//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="审核成功"]
+[2017-08-23 10:59:08] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P014 :   执行完毕！
+[2017-08-23 10:59:09] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P015 :   执行完毕！
+[2017-08-23 10:59:11] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P016 :   执行完毕！
+[2017-08-23 10:59:12] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P017 :   执行完毕！
+[2017-08-23 10:59:14] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P018 :   执行完毕！
+[2017-08-23 10:59:16] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P019 :   执行完毕！
+[2017-08-23 10:59:17] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P020 :   执行完毕！
+[2017-08-23 10:59:19] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P021 :   执行完毕！
+[2017-08-23 10:59:20] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P022 :   执行完毕！
+[2017-08-23 10:59:21] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P023 :   执行完毕！
+[2017-08-23 10:59:22] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P024 :   执行完毕！
+[2017-08-23 10:59:22] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:321] 开始等待元素.//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="反审核成功"]出现，超时时间为 : 5秒
+[2017-08-23 10:59:22] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:328] 等待操作完成，元素XPath = .//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="反审核成功"]
+[2017-08-23 10:59:24] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P025 :   执行完毕！
+[2017-08-23 10:59:25] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P026 :   执行完毕！
+[2017-08-23 10:59:27] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P027 :   执行完毕！
+[2017-08-23 10:59:28] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P028 :   执行完毕！
+[2017-08-23 10:59:30] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P029 :   执行完毕！
+[2017-08-23 10:59:31] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P030 :   执行完毕！
+[2017-08-23 10:59:32] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P031 :   执行完毕！
+[2017-08-23 10:59:33] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P032 :   执行完毕！
+[2017-08-23 10:59:35] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P033 :   执行完毕！
+[2017-08-23 10:59:37] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P034 :   执行完毕！
+[2017-08-23 10:59:41] [yss.acs.ui.test.testcases.JiYiDanYuan_005][行:408] 步骤  P035 :   执行完毕！
+[2017-08-23 10:59:51] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 10:59:52] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 10:59:54] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 10:59:57] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-23 10:59:59] [yss.acs.ui.test.testcases.SecurAccoInfManagement_006][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:00:00] [yss.acs.ui.test.testcases.SecurAccoInfManagement_006][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:00:02] [yss.acs.ui.test.testcases.SecurAccoInfManagement_006][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:00:03] [yss.acs.ui.test.testcases.SecurAccoInfManagement_006][行:408] 步骤  P004 :   执行完毕！
+[2017-08-23 11:00:04] [yss.acs.ui.test.testcases.SecurAccoInfManagement_006][行:408] 步骤  P005 : 点击产品名称框  执行完毕！
+[2017-08-23 11:00:09] [yss.acs.ui.test.testcases.SecurAccoInfManagement_006][行:408] 步骤  P006 : 输入产品号  执行完毕！
+[2017-08-23 11:00:10] [yss.acs.ui.test.testcases.SecurAccoInfManagement_006][行:408] 步骤  P007 : 选中产品名称  执行完毕！
+[2017-08-23 11:00:15] [yss.acs.ui.test.testcases.SecurAccoInfManagement_006][行:408] 步骤  P008 : 输入查询日期  执行完毕！
+[2017-08-23 11:00:19] [yss.acs.ui.test.testcases.SecurAccoInfManagement_006][行:408] 步骤  P019 : 输入账户代码  执行完毕！
+[2017-08-23 11:00:20] [yss.acs.ui.test.testcases.SecurAccoInfManagement_006][行:408] 步骤  P025 : 查询  执行完毕！
+[2017-08-23 11:00:31] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:00:32] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:00:34] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:00:37] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-23 11:00:39] [yss.acs.ui.test.testcases.AccIntRateInfo_007][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:00:40] [yss.acs.ui.test.testcases.AccIntRateInfo_007][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:00:42] [yss.acs.ui.test.testcases.AccIntRateInfo_007][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:00:43] [yss.acs.ui.test.testcases.AccIntRateInfo_007][行:408] 步骤  P004 :   执行完毕！
+[2017-08-23 11:00:44] [yss.acs.ui.test.testcases.AccIntRateInfo_007][行:408] 步骤  P013 : 审核状态展开  执行完毕！
+[2017-08-23 11:00:46] [yss.acs.ui.test.testcases.AccIntRateInfo_007][行:408] 步骤  P014 : 搜索字段  执行完毕！
+[2017-08-23 11:00:48] [yss.acs.ui.test.testcases.AccIntRateInfo_007][行:408] 步骤  P015 : 选择数据  执行完毕！
+[2017-08-23 11:00:49] [yss.acs.ui.test.testcases.AccIntRateInfo_007][行:408] 步骤  P016 : 输入查询日期  执行完毕！
+[2017-08-23 11:00:50] [yss.acs.ui.test.testcases.AccIntRateInfo_007][行:408] 步骤  P017 : 点击搜索  执行完毕！
+[2017-08-23 11:00:52] [yss.acs.ui.test.testcases.AccIntRateInfo_007][行:408] 步骤  P018 : 等待查看效果  执行完毕！
+[2017-08-23 11:00:53] [yss.acs.ui.test.testcases.AccIntRateInfo_007][行:408] 步骤  P019 : 全选  执行完毕！
+[2017-08-23 11:00:54] [yss.acs.ui.test.testcases.AccIntRateInfo_007][行:408] 步骤  P020 : 点击审核  执行完毕！
+[2017-08-23 11:00:55] [yss.acs.ui.test.testcases.AccIntRateInfo_007][行:408] 步骤  P021 : 点击是  执行完毕！
+[2017-08-23 11:00:56] [yss.acs.ui.test.testcases.AccIntRateInfo_007][行:408] 步骤  P022 : 等待审核成功  执行完毕！
+[2017-08-23 11:00:57] [yss.acs.ui.test.testcases.AccIntRateInfo_007][行:408] 步骤  P023 : 点击确定  执行完毕！
+[2017-08-23 11:00:59] [yss.acs.ui.test.testcases.AccIntRateInfo_007][行:408] 步骤  P024 : 死等  执行完毕！
+[2017-08-23 11:01:00] [yss.acs.ui.test.testcases.AccIntRateInfo_007][行:408] 步骤  P025 : 查询  执行完毕！
+[2017-08-23 11:01:02] [yss.acs.ui.test.testcases.AccIntRateInfo_007][行:408] 步骤  P026 : 输入数据  执行完毕！
+[2017-08-23 11:01:04] [yss.acs.ui.test.testcases.AccIntRateInfo_007][行:408] 步骤  P027 : 选择数据  执行完毕！
+[2017-08-23 11:01:05] [yss.acs.ui.test.testcases.AccIntRateInfo_007][行:408] 步骤  P028 : 输入日期  执行完毕！
+[2017-08-23 11:01:06] [yss.acs.ui.test.testcases.AccIntRateInfo_007][行:408] 步骤  P029 : 点击查询  执行完毕！
+[2017-08-23 11:01:08] [yss.acs.ui.test.testcases.AccIntRateInfo_007][行:408] 步骤  P030 : 等待  执行完毕！
+[2017-08-23 11:01:09] [yss.acs.ui.test.testcases.AccIntRateInfo_007][行:408] 步骤  P031 : 全选  执行完毕！
+[2017-08-23 11:01:10] [yss.acs.ui.test.testcases.AccIntRateInfo_007][行:408] 步骤  P032 : 反审核  执行完毕！
+[2017-08-23 11:01:11] [yss.acs.ui.test.testcases.AccIntRateInfo_007][行:408] 步骤  P033 : 点击是  执行完毕！
+[2017-08-23 11:01:12] [yss.acs.ui.test.testcases.AccIntRateInfo_007][行:408] 步骤  P034 : 等待反审核成功  执行完毕！
+[2017-08-23 11:01:13] [yss.acs.ui.test.testcases.AccIntRateInfo_007][行:408] 步骤  P035 : 点击确定  执行完毕！
+[2017-08-23 11:01:15] [yss.acs.ui.test.testcases.AccIntRateInfo_007][行:408] 步骤  P036 : 等待  执行完毕！
+[2017-08-23 11:01:26] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:01:27] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:01:28] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:01:31] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-23 11:01:34] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:01:35] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:01:37] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:01:38] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:408] 步骤  P004 :   执行完毕！
+[2017-08-23 11:01:41] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:408] 步骤  P032 : 等待  执行完毕！
+[2017-08-23 11:01:42] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:408] 步骤  P033 : 审核状态  执行完毕！
+[2017-08-23 11:01:45] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:408] 步骤  P034 : 输入数据  执行完毕！
+[2017-08-23 11:01:46] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:408] 步骤  P035 : 选择数据  执行完毕！
+[2017-08-23 11:01:47] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:408] 步骤  P036 : 查询  执行完毕！
+[2017-08-23 11:01:48] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:408] 步骤  P037 : 全选  执行完毕！
+[2017-08-23 11:01:49] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:408] 步骤  P038 : 审核  执行完毕！
+[2017-08-23 11:01:50] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:408] 步骤  P039 : 点击是  执行完毕！
+[2017-08-23 11:01:50] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:321] 开始等待元素.//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="审核成功"]出现，超时时间为 : 5秒
+[2017-08-23 11:01:50] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:328] 等待操作完成，元素XPath = .//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="审核成功"]
+[2017-08-23 11:01:52] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:408] 步骤  P040 : 等待审核成功  执行完毕！
+[2017-08-23 11:01:53] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:408] 步骤  P041 : 点击确定  执行完毕！
+[2017-08-23 11:01:55] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:408] 步骤  P042 : 等待  执行完毕！
+[2017-08-23 11:01:56] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:408] 步骤  P043 : 审核状态  执行完毕！
+[2017-08-23 11:01:59] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:408] 步骤  P044 : 输入数据  执行完毕！
+[2017-08-23 11:02:00] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:408] 步骤  P045 : 选择数据  执行完毕！
+[2017-08-23 11:02:01] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:408] 步骤  P046 : 查询  执行完毕！
+[2017-08-23 11:02:02] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:408] 步骤  P047 : 全选  执行完毕！
+[2017-08-23 11:02:03] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:408] 步骤  P048 : 反审核  执行完毕！
+[2017-08-23 11:02:04] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:408] 步骤  P049 : 点击是  执行完毕！
+[2017-08-23 11:02:04] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:321] 开始等待元素.//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="反审核成功"]出现，超时时间为 : 5秒
+[2017-08-23 11:02:04] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:328] 等待操作完成，元素XPath = .//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="反审核成功"]
+[2017-08-23 11:02:06] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:408] 步骤  P050 : 反审核成功  执行完毕！
+[2017-08-23 11:02:07] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:408] 步骤  P051 : 点击确定  执行完毕！
+[2017-08-23 11:02:09] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:408] 步骤  P052 : 等待  执行完毕！
+[2017-08-23 11:02:10] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:408] 步骤  P053 : 审核状态  执行完毕！
+[2017-08-23 11:02:12] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:408] 步骤  P054 : 输入数据  执行完毕！
+[2017-08-23 11:02:13] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:408] 步骤  P055 : 选择数据  执行完毕！
+[2017-08-23 11:02:14] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:408] 步骤  P056 : 点击查询  执行完毕！
+[2017-08-23 11:02:15] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:408] 步骤  P057 : 点击快速下载  执行完毕！
+[2017-08-23 11:02:17] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:408] 步骤  P058 : 选择Excel07  执行完毕！
+[2017-08-23 11:02:21] [yss.acs.ui.test.testcases.PriClearInfManagement_008][行:408] 步骤  P059 : 等待  执行完毕！
+[2017-08-23 11:02:32] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:02:33] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:02:34] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:02:37] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-23 11:02:40] [yss.acs.ui.test.testcases.FrienAccountInfo_009][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:02:41] [yss.acs.ui.test.testcases.FrienAccountInfo_009][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:02:42] [yss.acs.ui.test.testcases.FrienAccountInfo_009][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:02:43] [yss.acs.ui.test.testcases.FrienAccountInfo_009][行:408] 步骤  P004 :   执行完毕！
+[2017-08-23 11:02:46] [yss.acs.ui.test.testcases.FrienAccountInfo_009][行:408] 步骤  P005 : 输入账户账号  执行完毕！
+[2017-08-23 11:02:48] [yss.acs.ui.test.testcases.FrienAccountInfo_009][行:408] 步骤  P007 : 输入账户名称  执行完毕！
+[2017-08-23 11:02:49] [yss.acs.ui.test.testcases.FrienAccountInfo_009][行:408] 步骤  P009 : 下拉开户行  执行完毕！
+[2017-08-23 11:02:51] [yss.acs.ui.test.testcases.FrienAccountInfo_009][行:408] 步骤  P010 : 选中  执行完毕！
+[2017-08-23 11:02:52] [yss.acs.ui.test.testcases.FrienAccountInfo_009][行:408] 步骤  P012 : 下拉审核状态  执行完毕！
+[2017-08-23 11:02:53] [yss.acs.ui.test.testcases.FrienAccountInfo_009][行:408] 步骤  P013 : 选中  执行完毕！
+[2017-08-23 11:02:54] [yss.acs.ui.test.testcases.FrienAccountInfo_009][行:408] 步骤  P014 : 按审核状态查询  执行完毕！
+[2017-08-23 11:03:04] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:03:05] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:03:07] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:03:10] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-23 11:03:12] [yss.acs.ui.test.testcases.BusiProManag_010][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:03:13] [yss.acs.ui.test.testcases.BusiProManag_010][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:03:15] [yss.acs.ui.test.testcases.BusiProManag_010][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:03:16] [yss.acs.ui.test.testcases.BusiProManag_010][行:408] 步骤  P004 :   执行完毕！
+[2017-08-23 11:03:20] [yss.acs.ui.test.testcases.BusiProManag_010][行:408] 步骤  P005 : 输入方案名称  执行完毕！
+[2017-08-23 11:03:21] [yss.acs.ui.test.testcases.BusiProManag_010][行:408] 步骤  P007 : 点击方案类型  执行完毕！
+[2017-08-23 11:03:22] [yss.acs.ui.test.testcases.BusiProManag_010][行:408] 步骤  P008 : 点击输入框  执行完毕！
+[2017-08-23 11:03:23] [yss.acs.ui.test.testcases.BusiProManag_010][行:408] 步骤  P009 : 选中方案类型  执行完毕！
+[2017-08-23 11:03:24] [yss.acs.ui.test.testcases.BusiProManag_010][行:408] 步骤  P011 : 点击应用方式  执行完毕！
+[2017-08-23 11:03:25] [yss.acs.ui.test.testcases.BusiProManag_010][行:408] 步骤  P012 : 点击输入框  执行完毕！
+[2017-08-23 11:03:26] [yss.acs.ui.test.testcases.BusiProManag_010][行:408] 步骤  P013 : 选中应用方式  执行完毕！
+[2017-08-23 11:03:27] [yss.acs.ui.test.testcases.BusiProManag_010][行:408] 步骤  P015 : 点击审核状态  执行完毕！
+[2017-08-23 11:03:28] [yss.acs.ui.test.testcases.BusiProManag_010][行:408] 步骤  P016 : 点击输入框  执行完毕！
+[2017-08-23 11:03:29] [yss.acs.ui.test.testcases.BusiProManag_010][行:408] 步骤  P017 : 选中审核状态  执行完毕！
+[2017-08-23 11:03:30] [yss.acs.ui.test.testcases.BusiProManag_010][行:408] 步骤  P018 : 点击查询  执行完毕！
+[2017-08-23 11:03:41] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:03:42] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:03:44] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:03:47] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-23 11:03:49] [yss.acs.ui.test.testcases.ProductAssor_011][行:408] 步骤  P001 : 选择业务导向  执行完毕！
+[2017-08-23 11:03:50] [yss.acs.ui.test.testcases.ProductAssor_011][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:03:52] [yss.acs.ui.test.testcases.ProductAssor_011][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:03:53] [yss.acs.ui.test.testcases.ProductAssor_011][行:408] 步骤  P004 : 产品关联业务方案管理  执行完毕！
+[2017-08-23 11:03:54] [yss.acs.ui.test.testcases.ProductAssor_011][行:408] 步骤  P005 : 产品名称  执行完毕！
+[2017-08-23 11:03:59] [yss.acs.ui.test.testcases.ProductAssor_011][行:408] 步骤  P006 : 产品名称输入  执行完毕！
+[2017-08-23 11:04:00] [yss.acs.ui.test.testcases.ProductAssor_011][行:408] 步骤  P007 : 选中产品  执行完毕！
+[2017-08-23 11:04:01] [yss.acs.ui.test.testcases.ProductAssor_011][行:408] 步骤  P008 : 审核状态  执行完毕！
+[2017-08-23 11:04:04] [yss.acs.ui.test.testcases.ProductAssor_011][行:408] 步骤  P009 : 审核状态输入  执行完毕！
+[2017-08-23 11:04:05] [yss.acs.ui.test.testcases.ProductAssor_011][行:408] 步骤  P010 : 选择已审核  执行完毕！
+[2017-08-23 11:04:06] [yss.acs.ui.test.testcases.ProductAssor_011][行:408] 步骤  P011 : 方案类型  执行完毕！
+[2017-08-23 11:04:10] [yss.acs.ui.test.testcases.ProductAssor_011][行:408] 步骤  P012 : 输入方案类型  执行完毕！
+[2017-08-23 11:04:11] [yss.acs.ui.test.testcases.ProductAssor_011][行:408] 步骤  P013 : 选中方案  执行完毕！
+[2017-08-23 11:04:13] [yss.acs.ui.test.testcases.ProductAssor_011][行:408] 步骤  P014 : 硬等待  执行完毕！
+[2017-08-23 11:04:14] [yss.acs.ui.test.testcases.ProductAssor_011][行:408] 步骤  P015 : 点击查询  执行完毕！
+[2017-08-23 11:04:26] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:04:27] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:04:28] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:04:31] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-23 11:04:34] [yss.acs.ui.test.testcases.SubjectPro_012][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:04:35] [yss.acs.ui.test.testcases.SubjectPro_012][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:04:37] [yss.acs.ui.test.testcases.SubjectPro_012][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:04:38] [yss.acs.ui.test.testcases.SubjectPro_012][行:408] 步骤  P004 :   执行完毕！
+[2017-08-23 11:04:39] [yss.acs.ui.test.testcases.SubjectPro_012][行:408] 步骤  P005 : 科目方案名称  执行完毕！
+[2017-08-23 11:04:40] [yss.acs.ui.test.testcases.SubjectPro_012][行:408] 步骤  P006 : 选择科目方案名称  执行完毕！
+[2017-08-23 11:04:41] [yss.acs.ui.test.testcases.SubjectPro_012][行:408] 步骤  P007 : 科目分类  执行完毕！
+[2017-08-23 11:04:42] [yss.acs.ui.test.testcases.SubjectPro_012][行:408] 步骤  P008 : 选择科目类型  执行完毕！
+[2017-08-23 11:04:43] [yss.acs.ui.test.testcases.SubjectPro_012][行:408] 步骤  P009 : 审核状态  执行完毕！
+[2017-08-23 11:04:44] [yss.acs.ui.test.testcases.SubjectPro_012][行:408] 步骤  P010 : 选择审核状态  执行完毕！
+[2017-08-23 11:04:45] [yss.acs.ui.test.testcases.SubjectPro_012][行:408] 步骤  P011 : 科目展开类别  执行完毕！
+[2017-08-23 11:04:46] [yss.acs.ui.test.testcases.SubjectPro_012][行:408] 步骤  P012 : 选择科目展开类别  执行完毕！
+[2017-08-23 11:04:50] [yss.acs.ui.test.testcases.SubjectPro_012][行:408] 步骤  P013 : 科目快速定位  执行完毕！
+[2017-08-23 11:04:51] [yss.acs.ui.test.testcases.SubjectPro_012][行:408] 步骤  P014 : 点击查询  执行完毕！
+[2017-08-23 11:05:00] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:05:01] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:05:02] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:05:05] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-23 11:05:08] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:05:09] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:05:11] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:05:12] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:408] 步骤  P004 :   执行完毕！
+[2017-08-23 11:05:13] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:408] 步骤  P063 :   执行完毕！
+[2017-08-23 11:05:15] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:408] 步骤  P064 :   执行完毕！
+[2017-08-23 11:05:16] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:408] 步骤  P065 :   执行完毕！
+[2017-08-23 11:05:17] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:408] 步骤  P066 :   执行完毕！
+[2017-08-23 11:05:19] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:408] 步骤  P067 :   执行完毕！
+[2017-08-23 11:05:20] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:408] 步骤  P068 :   执行完毕！
+[2017-08-23 11:05:22] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:408] 步骤  P069 :   执行完毕！
+[2017-08-23 11:05:23] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:408] 步骤  P070 :   执行完毕！
+[2017-08-23 11:05:23] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:321] 开始等待元素.//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="审核成功"]出现，超时时间为 : 5秒
+[2017-08-23 11:05:23] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:328] 等待操作完成，元素XPath = .//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="审核成功"]
+[2017-08-23 11:05:25] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:408] 步骤  P071 :   执行完毕！
+[2017-08-23 11:05:26] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:408] 步骤  P072 :   执行完毕！
+[2017-08-23 11:05:28] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:408] 步骤  P073 :   执行完毕！
+[2017-08-23 11:05:29] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:408] 步骤  P074 :   执行完毕！
+[2017-08-23 11:05:31] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:408] 步骤  P075 :   执行完毕！
+[2017-08-23 11:05:32] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:408] 步骤  P076 :   执行完毕！
+[2017-08-23 11:05:33] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:408] 步骤  P077 :   执行完毕！
+[2017-08-23 11:05:35] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:408] 步骤  P078 :   执行完毕！
+[2017-08-23 11:05:36] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:408] 步骤  P079 :   执行完毕！
+[2017-08-23 11:05:37] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:408] 步骤  P080 :   执行完毕！
+[2017-08-23 11:05:39] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:408] 步骤  P081 :   执行完毕！
+[2017-08-23 11:05:39] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:321] 开始等待元素.//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="反审核成功"]出现，超时时间为 : 5秒
+[2017-08-23 11:05:39] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:328] 等待操作完成，元素XPath = .//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="反审核成功"]
+[2017-08-23 11:05:41] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:408] 步骤  P082 :   执行完毕！
+[2017-08-23 11:05:42] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:408] 步骤  P083 :   执行完毕！
+[2017-08-23 11:05:44] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:408] 步骤  P084 :   执行完毕！
+[2017-08-23 11:05:45] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:408] 步骤  P085 :   执行完毕！
+[2017-08-23 11:05:47] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:408] 步骤  P086 :   执行完毕！
+[2017-08-23 11:05:48] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:408] 步骤  P087 :   执行完毕！
+[2017-08-23 11:05:52] [yss.acs.ui.test.testcases.AccountStencilScheme_013][行:408] 步骤  P088 :   执行完毕！
+[2017-08-23 11:06:03] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:06:04] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:06:05] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:06:08] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-23 11:06:11] [yss.acs.ui.test.testcases.PublicZhengquanGuzhi_014][行:408] 步骤  P001 : 选择"核算估值操作"  执行完毕！
+[2017-08-23 11:06:12] [yss.acs.ui.test.testcases.PublicZhengquanGuzhi_014][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:06:13] [yss.acs.ui.test.testcases.PublicZhengquanGuzhi_014][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:06:14] [yss.acs.ui.test.testcases.PublicZhengquanGuzhi_014][行:408] 步骤  P004 : 公共证券估值方案主页面  执行完毕！
+[2017-08-23 11:06:15] [yss.acs.ui.test.testcases.PublicZhengquanGuzhi_014][行:408] 步骤  P005 : 业务方案  执行完毕！
+[2017-08-23 11:06:22] [yss.acs.ui.test.testcases.PublicZhengquanGuzhi_014][行:408] 步骤  P006 : 输入业务方案  执行完毕！
+[2017-08-23 11:06:23] [yss.acs.ui.test.testcases.PublicZhengquanGuzhi_014][行:408] 步骤  P007 : 选择业务方案  执行完毕！
+[2017-08-23 11:06:24] [yss.acs.ui.test.testcases.PublicZhengquanGuzhi_014][行:408] 步骤  P008 : 审核状态  执行完毕！
+[2017-08-23 11:06:28] [yss.acs.ui.test.testcases.PublicZhengquanGuzhi_014][行:408] 步骤  P009 : 输入审核状态  执行完毕！
+[2017-08-23 11:06:29] [yss.acs.ui.test.testcases.PublicZhengquanGuzhi_014][行:408] 步骤  P010 : 选择审核状态  执行完毕！
+[2017-08-23 11:06:30] [yss.acs.ui.test.testcases.PublicZhengquanGuzhi_014][行:408] 步骤  P011 : 点击查询  执行完毕！
+[2017-08-23 11:06:41] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:06:42] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:06:43] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:06:47] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-23 11:06:49] [yss.acs.ui.test.testcases.ChanPinZhengQuanGuZhi_015][行:408] 步骤  P001 : 选择"核算估值操作"  执行完毕！
+[2017-08-23 11:06:50] [yss.acs.ui.test.testcases.ChanPinZhengQuanGuZhi_015][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:06:52] [yss.acs.ui.test.testcases.ChanPinZhengQuanGuZhi_015][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:06:53] [yss.acs.ui.test.testcases.ChanPinZhengQuanGuZhi_015][行:408] 步骤  P004 : 产品证券估值方案主页面  执行完毕！
+[2017-08-23 11:06:54] [yss.acs.ui.test.testcases.ChanPinZhengQuanGuZhi_015][行:408] 步骤  P005 : 点击产品信息框  执行完毕！
+[2017-08-23 11:06:59] [yss.acs.ui.test.testcases.ChanPinZhengQuanGuZhi_015][行:408] 步骤  P006 : 输入产品代码  执行完毕！
+[2017-08-23 11:07:00] [yss.acs.ui.test.testcases.ChanPinZhengQuanGuZhi_015][行:408] 步骤  P007 : 选中产品  执行完毕！
+[2017-08-23 11:07:01] [yss.acs.ui.test.testcases.ChanPinZhengQuanGuZhi_015][行:408] 步骤  P008 : 点击审核状态  执行完毕！
+[2017-08-23 11:07:02] [yss.acs.ui.test.testcases.ChanPinZhengQuanGuZhi_015][行:408] 步骤  P009 : 选择已审核  执行完毕！
+[2017-08-23 11:07:03] [yss.acs.ui.test.testcases.ChanPinZhengQuanGuZhi_015][行:408] 步骤  P010 : 点击查询  执行完毕！
+[2017-08-23 11:07:14] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:07:15] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:07:17] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:07:20] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-23 11:07:22] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:07:23] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:07:25] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:07:26] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P004 :   执行完毕！
+[2017-08-23 11:07:27] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P005 :   执行完毕！
+[2017-08-23 11:07:30] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P006 :   执行完毕！
+[2017-08-23 11:07:31] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P007 :   执行完毕！
+[2017-08-23 11:07:32] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P008 :   执行完毕！
+[2017-08-23 11:07:36] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P009 :   执行完毕！
+[2017-08-23 11:07:37] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P010 :   执行完毕！
+[2017-08-23 11:07:38] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P011 :   执行完毕！
+[2017-08-23 11:07:39] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P013 :   执行完毕！
+[2017-08-23 11:07:41] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P014 :   执行完毕！
+[2017-08-23 11:07:42] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P015 :   执行完毕！
+[2017-08-23 11:07:43] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P016 :   执行完毕！
+[2017-08-23 11:07:46] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P017 :   执行完毕！
+[2017-08-23 11:07:47] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P018 :   执行完毕！
+[2017-08-23 11:07:48] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P019 :   执行完毕！
+[2017-08-23 11:07:49] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P020 :   执行完毕！
+[2017-08-23 11:07:54] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P021 :   执行完毕！
+[2017-08-23 11:07:55] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P074 : 点击审核按钮  执行完毕！
+[2017-08-23 11:07:58] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P075 : 输入数据  执行完毕！
+[2017-08-23 11:07:59] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P076 : 选择数据  执行完毕！
+[2017-08-23 11:08:00] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P077 : 点击查询  执行完毕！
+[2017-08-23 11:08:01] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P078 : 全选  执行完毕！
+[2017-08-23 11:08:03] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P079 : 等待  执行完毕！
+[2017-08-23 11:08:04] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P080 : 审核  执行完毕！
+[2017-08-23 11:08:05] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P081 : 是  执行完毕！
+[2017-08-23 11:08:05] [yss.acs.ui.test.testcases.PublicBonds_016][行:321] 开始等待元素.//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="审核成功"]出现，超时时间为 : 5秒
+[2017-08-23 11:08:05] [yss.acs.ui.test.testcases.PublicBonds_016][行:328] 等待操作完成，元素XPath = .//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="审核成功"]
+[2017-08-23 11:08:07] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P082 : 获取审核成功  执行完毕！
+[2017-08-23 11:08:08] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P083 : 点击确定  执行完毕！
+[2017-08-23 11:08:10] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P084 : 等待  执行完毕！
+[2017-08-23 11:08:11] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P085 : 点击审核按钮  执行完毕！
+[2017-08-23 11:08:14] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P086 : 输入数据  执行完毕！
+[2017-08-23 11:08:15] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P087 : 选择数据  执行完毕！
+[2017-08-23 11:08:16] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P088 : 点击查询  执行完毕！
+[2017-08-23 11:08:17] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P089 : 全选  执行完毕！
+[2017-08-23 11:08:19] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P090 : 等待  执行完毕！
+[2017-08-23 11:08:20] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P091 : 反审核  执行完毕！
+[2017-08-23 11:08:21] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P092 : 是  执行完毕！
+[2017-08-23 11:08:21] [yss.acs.ui.test.testcases.PublicBonds_016][行:321] 开始等待元素.//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="反审核成功"]出现，超时时间为 : 5秒
+[2017-08-23 11:08:21] [yss.acs.ui.test.testcases.PublicBonds_016][行:328] 等待操作完成，元素XPath = .//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="反审核成功"]
+[2017-08-23 11:08:23] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P093 : 获取反审核成功  执行完毕！
+[2017-08-23 11:08:24] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P094 : 点击确定  执行完毕！
+[2017-08-23 11:08:36] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:08:37] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:08:38] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:08:41] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-23 11:08:44] [yss.acs.ui.test.testcases.ProductBonds_017][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:08:45] [yss.acs.ui.test.testcases.ProductBonds_017][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:08:47] [yss.acs.ui.test.testcases.ProductBonds_017][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:08:48] [yss.acs.ui.test.testcases.ProductBonds_017][行:408] 步骤  P004 :   执行完毕！
+[2017-08-23 11:08:49] [yss.acs.ui.test.testcases.ProductBonds_017][行:408] 步骤  P065 : 点击下拉  执行完毕！
+[2017-08-23 11:08:54] [yss.acs.ui.test.testcases.ProductBonds_017][行:408] 步骤  P066 : 输入文本  执行完毕！
+[2017-08-23 11:08:55] [yss.acs.ui.test.testcases.ProductBonds_017][行:408] 步骤  P067 : 选择项  执行完毕！
+[2017-08-23 11:08:56] [yss.acs.ui.test.testcases.ProductBonds_017][行:408] 步骤  P068 : 查询  执行完毕！
+[2017-08-23 11:08:57] [yss.acs.ui.test.testcases.ProductBonds_017][行:408] 步骤  P070 : 导出  执行完毕！
+[2017-08-23 11:08:58] [yss.acs.ui.test.testcases.ProductBonds_017][行:408] 步骤  P071 : 选择项  执行完毕！
+[2017-08-23 11:08:59] [yss.acs.ui.test.testcases.ProductBonds_017][行:408] 步骤  P072 : 查看  执行完毕！
+[2017-08-23 11:09:03] [yss.acs.ui.test.testcases.ProductBonds_017][行:408] 步骤  P073 : 死等  执行完毕！
+[2017-08-23 11:09:17] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:09:18] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:09:19] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:09:22] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-23 11:09:25] [yss.acs.ui.test.testcases.DataChange_018][行:408] 步骤  P001 : 选择"业务导向"  执行完毕！
+[2017-08-23 11:09:26] [yss.acs.ui.test.testcases.DataChange_018][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:09:28] [yss.acs.ui.test.testcases.DataChange_018][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:09:29] [yss.acs.ui.test.testcases.DataChange_018][行:408] 步骤  P004 :   执行完毕！
+[2017-08-23 11:09:30] [yss.acs.ui.test.testcases.DataChange_018][行:408] 步骤  P005 :   执行完毕！
+[2017-08-23 11:09:31] [yss.acs.ui.test.testcases.DataChange_018][行:408] 步骤  P006 :   执行完毕！
+[2017-08-23 11:09:36] [yss.acs.ui.test.testcases.DataChange_018][行:408] 步骤  P007 :   执行完毕！
+[2017-08-23 11:09:37] [yss.acs.ui.test.testcases.DataChange_018][行:408] 步骤  P008 :   执行完毕！
+[2017-08-23 11:09:38] [yss.acs.ui.test.testcases.DataChange_018][行:408] 步骤  P009 :   执行完毕！
+[2017-08-23 11:09:39] [yss.acs.ui.test.testcases.DataChange_018][行:408] 步骤  P010 :   执行完毕！
+[2017-08-23 11:09:40] [yss.acs.ui.test.testcases.DataChange_018][行:408] 步骤  P011 :   执行完毕！
+[2017-08-23 11:09:41] [yss.acs.ui.test.testcases.DataChange_018][行:408] 步骤  P012 :   执行完毕！
+[2017-08-23 11:09:42] [yss.acs.ui.test.testcases.DataChange_018][行:408] 步骤  P013 : 执行  执行完毕！
+[2017-08-23 11:09:43] [yss.acs.ui.test.testcases.DataChange_018][行:408] 步骤  P014 :   执行完毕！
+[2017-08-23 11:09:43] [yss.acs.ui.test.testcases.DataChange_018][行:321] 开始等待元素.//*[text()='核算交易流水处理完成']出现，超时时间为 : 10秒
+[2017-08-23 11:09:44] [yss.acs.ui.test.testcases.DataChange_018][行:328] 等待操作完成，元素XPath = .//*[text()='核算交易流水处理完成']
+[2017-08-23 11:09:46] [yss.acs.ui.test.testcases.DataChange_018][行:408] 步骤  P015 :   执行完毕！
+[2017-08-23 11:09:47] [yss.acs.ui.test.testcases.DataChange_018][行:408] 步骤  P016 :   执行完毕！
+[2017-08-23 11:09:56] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:09:57] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:10:01] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:10:04] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-23 11:10:06] [yss.acs.ui.test.testcases.ChangNeiZhengQuan_019][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:10:08] [yss.acs.ui.test.testcases.ChangNeiZhengQuan_019][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:10:10] [yss.acs.ui.test.testcases.ChangNeiZhengQuan_019][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:10:11] [yss.acs.ui.test.testcases.ChangNeiZhengQuan_019][行:408] 步骤  P004 :   执行完毕！
+[2017-08-23 11:10:12] [yss.acs.ui.test.testcases.ChangNeiZhengQuan_019][行:408] 步骤  P005 :   执行完毕！
+[2017-08-23 11:10:13] [yss.acs.ui.test.testcases.ChangNeiZhengQuan_019][行:408] 步骤  P006 :   执行完毕！
+[2017-08-23 11:10:17] [yss.acs.ui.test.testcases.ChangNeiZhengQuan_019][行:408] 步骤  P007 :   执行完毕！
+[2017-08-23 11:10:18] [yss.acs.ui.test.testcases.ChangNeiZhengQuan_019][行:408] 步骤  P008 :   执行完毕！
+[2017-08-23 11:10:21] [yss.acs.ui.test.testcases.ChangNeiZhengQuan_019][行:408] 步骤  P009 :   执行完毕！
+[2017-08-23 11:10:22] [yss.acs.ui.test.testcases.ChangNeiZhengQuan_019][行:408] 步骤  P010 :   执行完毕！
+[2017-08-23 11:10:24] [yss.acs.ui.test.testcases.ChangNeiZhengQuan_019][行:408] 步骤  P011 :   执行完毕！
+[2017-08-23 11:10:26] [yss.acs.ui.test.testcases.ChangNeiZhengQuan_019][行:408] 步骤  P012 :   执行完毕！
+[2017-08-23 11:10:27] [yss.acs.ui.test.testcases.ChangNeiZhengQuan_019][行:408] 步骤  P013 :   执行完毕！
+[2017-08-23 11:10:28] [yss.acs.ui.test.testcases.ChangNeiZhengQuan_019][行:408] 步骤  P014 :   执行完毕！
+[2017-08-23 11:10:33] [yss.acs.ui.test.testcases.ChangNeiZhengQuan_019][行:408] 步骤  P015 :   执行完毕！
+[2017-08-23 11:10:34] [yss.acs.ui.test.testcases.ChangNeiZhengQuan_019][行:408] 步骤  P016 :   执行完毕！
+[2017-08-23 11:10:35] [yss.acs.ui.test.testcases.ChangNeiZhengQuan_019][行:408] 步骤  P017 :   执行完毕！
+[2017-08-23 11:10:38] [yss.acs.ui.test.testcases.ChangNeiZhengQuan_019][行:408] 步骤  P018 :   执行完毕！
+[2017-08-23 11:10:39] [yss.acs.ui.test.testcases.ChangNeiZhengQuan_019][行:408] 步骤  P019 :   执行完毕！
+[2017-08-23 11:10:40] [yss.acs.ui.test.testcases.ChangNeiZhengQuan_019][行:408] 步骤  P020 :   执行完毕！
+[2017-08-23 11:10:44] [yss.acs.ui.test.testcases.ChangNeiZhengQuan_019][行:408] 步骤  P021 :   执行完毕！
+[2017-08-23 11:10:45] [yss.acs.ui.test.testcases.ChangNeiZhengQuan_019][行:408] 步骤  P022 :   执行完毕！
+[2017-08-23 11:10:46] [yss.acs.ui.test.testcases.ChangNeiZhengQuan_019][行:408] 步骤  P023 :   执行完毕！
+[2017-08-23 11:10:57] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:10:58] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:11:05] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:11:08] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-23 11:11:10] [yss.acs.ui.test.testcases.BuyBackDeal_020][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:11:11] [yss.acs.ui.test.testcases.BuyBackDeal_020][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:11:13] [yss.acs.ui.test.testcases.BuyBackDeal_020][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:11:14] [yss.acs.ui.test.testcases.BuyBackDeal_020][行:408] 步骤  P004 :   执行完毕！
+[2017-08-23 11:11:15] [yss.acs.ui.test.testcases.BuyBackDeal_020][行:408] 步骤  P049 :   执行完毕！
+[2017-08-23 11:11:16] [yss.acs.ui.test.testcases.BuyBackDeal_020][行:408] 步骤  P050 :   执行完毕！
+[2017-08-23 11:11:17] [yss.acs.ui.test.testcases.BuyBackDeal_020][行:408] 步骤  P051 :   执行完毕！
+[2017-08-23 11:11:19] [yss.acs.ui.test.testcases.BuyBackDeal_020][行:408] 步骤  P052 :   执行完毕！
+[2017-08-23 11:11:20] [yss.acs.ui.test.testcases.BuyBackDeal_020][行:408] 步骤  P053 :   执行完毕！
+[2017-08-23 11:11:21] [yss.acs.ui.test.testcases.BuyBackDeal_020][行:408] 步骤  P054 :   执行完毕！
+[2017-08-23 11:11:22] [yss.acs.ui.test.testcases.BuyBackDeal_020][行:408] 步骤  P055 :   执行完毕！
+[2017-08-23 11:11:23] [yss.acs.ui.test.testcases.BuyBackDeal_020][行:408] 步骤  P056 :   执行完毕！
+[2017-08-23 11:11:23] [yss.acs.ui.test.testcases.BuyBackDeal_020][行:321] 开始等待元素.//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="审核成功"]出现，超时时间为 : 5秒
+[2017-08-23 11:11:23] [yss.acs.ui.test.testcases.BuyBackDeal_020][行:328] 等待操作完成，元素XPath = .//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="审核成功"]
+[2017-08-23 11:11:25] [yss.acs.ui.test.testcases.BuyBackDeal_020][行:408] 步骤  P057 :   执行完毕！
+[2017-08-23 11:11:27] [yss.acs.ui.test.testcases.BuyBackDeal_020][行:408] 步骤  P058 :   执行完毕！
+[2017-08-23 11:11:29] [yss.acs.ui.test.testcases.BuyBackDeal_020][行:408] 步骤  P059 :   执行完毕！
+[2017-08-23 11:11:30] [yss.acs.ui.test.testcases.BuyBackDeal_020][行:408] 步骤  P060 :   执行完毕！
+[2017-08-23 11:11:31] [yss.acs.ui.test.testcases.BuyBackDeal_020][行:408] 步骤  P061 :   执行完毕！
+[2017-08-23 11:11:32] [yss.acs.ui.test.testcases.BuyBackDeal_020][行:408] 步骤  P062 :   执行完毕！
+[2017-08-23 11:11:34] [yss.acs.ui.test.testcases.BuyBackDeal_020][行:408] 步骤  P063 :   执行完毕！
+[2017-08-23 11:11:35] [yss.acs.ui.test.testcases.BuyBackDeal_020][行:408] 步骤  P064 :   执行完毕！
+[2017-08-23 11:11:36] [yss.acs.ui.test.testcases.BuyBackDeal_020][行:408] 步骤  P065 :   执行完毕！
+[2017-08-23 11:11:37] [yss.acs.ui.test.testcases.BuyBackDeal_020][行:408] 步骤  P066 :   执行完毕！
+[2017-08-23 11:11:38] [yss.acs.ui.test.testcases.BuyBackDeal_020][行:408] 步骤  P067 :   执行完毕！
+[2017-08-23 11:11:38] [yss.acs.ui.test.testcases.BuyBackDeal_020][行:321] 开始等待元素.//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="反审核成功"]出现，超时时间为 : 5秒
+[2017-08-23 11:11:38] [yss.acs.ui.test.testcases.BuyBackDeal_020][行:328] 等待操作完成，元素XPath = .//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="反审核成功"]
+[2017-08-23 11:11:40] [yss.acs.ui.test.testcases.BuyBackDeal_020][行:408] 步骤  P068 :   执行完毕！
+[2017-08-23 11:11:41] [yss.acs.ui.test.testcases.BuyBackDeal_020][行:408] 步骤  P069 :   执行完毕！
+[2017-08-23 11:11:45] [yss.acs.ui.test.testcases.BuyBackDeal_020][行:408] 步骤  P070 :   执行完毕！
+[2017-08-23 11:11:58] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:11:59] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:12:00] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:12:04] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-23 11:12:06] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:12:07] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:12:10] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:12:11] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P004 :   执行完毕！
+[2017-08-23 11:12:12] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P072 :   执行完毕！
+[2017-08-23 11:12:14] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P073 :   执行完毕！
+[2017-08-23 11:12:15] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P074 :   执行完毕！
+[2017-08-23 11:12:16] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P075 :   执行完毕！
+[2017-08-23 11:12:17] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P076 :   执行完毕！
+[2017-08-23 11:12:19] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P077 :   执行完毕！
+[2017-08-23 11:12:20] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P078 :   执行完毕！
+[2017-08-23 11:12:21] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P079 :   执行完毕！
+[2017-08-23 11:12:22] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P080 :   执行完毕！
+[2017-08-23 11:12:22] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:321] 开始等待元素.//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="审核成功"]出现，超时时间为 : 10秒
+[2017-08-23 11:12:22] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:328] 等待操作完成，元素XPath = .//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="审核成功"]
+[2017-08-23 11:12:24] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P081 :   执行完毕！
+[2017-08-23 11:12:25] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P082 :   执行完毕！
+[2017-08-23 11:12:27] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P083 :   执行完毕！
+[2017-08-23 11:12:28] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P084 :   执行完毕！
+[2017-08-23 11:12:30] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P085 :   执行完毕！
+[2017-08-23 11:12:31] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P086 :   执行完毕！
+[2017-08-23 11:12:32] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P087 :   执行完毕！
+[2017-08-23 11:12:34] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P088 :   执行完毕！
+[2017-08-23 11:12:35] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P089 :   执行完毕！
+[2017-08-23 11:12:36] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P090 :   执行完毕！
+[2017-08-23 11:12:37] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P091 :   执行完毕！
+[2017-08-23 11:12:38] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P092 :   执行完毕！
+[2017-08-23 11:12:38] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:321] 开始等待元素.//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="反审核成功"]出现，超时时间为 : 10秒
+[2017-08-23 11:12:38] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:328] 等待操作完成，元素XPath = .//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="反审核成功"]
+[2017-08-23 11:12:40] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P093 :   执行完毕！
+[2017-08-23 11:12:41] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P094 :   执行完毕！
+[2017-08-23 11:12:43] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P095 :   执行完毕！
+[2017-08-23 11:12:44] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P096 :   执行完毕！
+[2017-08-23 11:12:46] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P097 :   执行完毕！
+[2017-08-23 11:12:47] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P098 :   执行完毕！
+[2017-08-23 11:12:48] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P099 :   执行完毕！
+[2017-08-23 11:12:50] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P100 :   执行完毕！
+[2017-08-23 11:12:52] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P101 :   执行完毕！
+[2017-08-23 11:12:56] [yss.acs.ui.test.testcases.ChangWaiZhaiQuanJiaoYi_021][行:408] 步骤  P102 :   执行完毕！
+[2017-08-23 11:13:09] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:13:10] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:13:12] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:13:15] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-23 11:13:17] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:13:18] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:13:20] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:13:21] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:408] 步骤  P004 :   执行完毕！
+[2017-08-23 11:13:22] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:408] 步骤  P028 : 快速下载  执行完毕！
+[2017-08-23 11:13:24] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:408] 步骤  P029 : 等待  执行完毕！
+[2017-08-23 11:13:25] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:408] 步骤  P030 : 选择Excel07  执行完毕！
+[2017-08-23 11:13:29] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:408] 步骤  P031 : 等待下载  执行完毕！
+[2017-08-23 11:13:30] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:408] 步骤  P032 : 设置起始日期  执行完毕！
+[2017-08-23 11:13:31] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:408] 步骤  P033 : 设置结束日期  执行完毕！
+[2017-08-23 11:13:32] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:408] 步骤  P034 : 审核状态_下拉框  执行完毕！
+[2017-08-23 11:13:35] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:408] 步骤  P035 : 输入  执行完毕！
+[2017-08-23 11:13:36] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:408] 步骤  P036 : 选择  执行完毕！
+[2017-08-23 11:13:37] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:408] 步骤  P037 : 查询  执行完毕！
+[2017-08-23 11:13:38] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:408] 步骤  P038 : 全选  执行完毕！
+[2017-08-23 11:13:39] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:408] 步骤  P039 : 反审核  执行完毕！
+[2017-08-23 11:13:40] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:408] 步骤  P040 : 点击 是  执行完毕！
+[2017-08-23 11:13:40] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:321] 开始等待元素.//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="反审核成功"]出现，超时时间为 : 5秒
+[2017-08-23 11:13:40] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:328] 等待操作完成，元素XPath = .//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="反审核成功"]
+[2017-08-23 11:13:42] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:408] 步骤  P041 : 等待反审核成功  执行完毕！
+[2017-08-23 11:13:43] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:408] 步骤  P042 : 点击确定  执行完毕！
+[2017-08-23 11:13:45] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:408] 步骤  P043 : 等待看效果  执行完毕！
+[2017-08-23 11:13:46] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:408] 步骤  P044 : 审核状态_下拉框  执行完毕！
+[2017-08-23 11:13:49] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:408] 步骤  P045 : 输入  执行完毕！
+[2017-08-23 11:13:50] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:408] 步骤  P046 : 选择  执行完毕！
+[2017-08-23 11:13:51] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:408] 步骤  P047 : 查询  执行完毕！
+[2017-08-23 11:13:52] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:408] 步骤  P048 : 全选  执行完毕！
+[2017-08-23 11:13:53] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:408] 步骤  P049 : 审核  执行完毕！
+[2017-08-23 11:13:54] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:408] 步骤  P050 : 点击 是  执行完毕！
+[2017-08-23 11:13:54] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:321] 开始等待元素.//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="审核成功"]出现，超时时间为 : 5秒
+[2017-08-23 11:13:54] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:328] 等待操作完成，元素XPath = .//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="审核成功"]
+[2017-08-23 11:13:56] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:408] 步骤  P051 : 等待审核成功  执行完毕！
+[2017-08-23 11:13:57] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:408] 步骤  P052 : 点击确定  执行完毕！
+[2017-08-23 11:13:59] [yss.acs.ui.test.testcases.ZhengQaunLiuTong_022][行:408] 步骤  P053 : 等待看效果  执行完毕！
+[2017-08-23 11:14:08] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:14:09] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:14:12] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:14:15] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-23 11:14:17] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:14:18] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:14:20] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:14:21] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P004 :   执行完毕！
+[2017-08-23 11:14:22] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P029 :   执行完毕！
+[2017-08-23 11:14:23] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P030 :   执行完毕！
+[2017-08-23 11:14:28] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P031 :   执行完毕！
+[2017-08-23 11:14:29] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P032 :   执行完毕！
+[2017-08-23 11:14:30] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P033 :   执行完毕！
+[2017-08-23 11:14:33] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P034 :   执行完毕！
+[2017-08-23 11:14:34] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P035 :   执行完毕！
+[2017-08-23 11:14:35] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P036 :   执行完毕！
+[2017-08-23 11:14:39] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P037 :   执行完毕！
+[2017-08-23 11:14:40] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P038 :   执行完毕！
+[2017-08-23 11:14:41] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P039 :   执行完毕！
+[2017-08-23 11:14:42] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P040 :   执行完毕！
+[2017-08-23 11:14:46] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P041 :   执行完毕！
+[2017-08-23 11:14:47] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P042 :   执行完毕！
+[2017-08-23 11:14:52] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P043 :   执行完毕！
+[2017-08-23 11:14:53] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P044 :   执行完毕！
+[2017-08-23 11:14:54] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P045 :   执行完毕！
+[2017-08-23 11:14:55] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P046 :   执行完毕！
+[2017-08-23 11:14:58] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P047 :   执行完毕！
+[2017-08-23 11:14:59] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P048 :   执行完毕！
+[2017-08-23 11:15:00] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P049 :   执行完毕！
+[2017-08-23 11:15:04] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P050 :   执行完毕！
+[2017-08-23 11:15:05] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P051 :   执行完毕！
+[2017-08-23 11:15:06] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P052 :   执行完毕！
+[2017-08-23 11:15:09] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P053 :   执行完毕！
+[2017-08-23 11:15:10] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P054 :   执行完毕！
+[2017-08-23 11:15:13] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P055 :   执行完毕！
+[2017-08-23 11:15:14] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P056 :   执行完毕！
+[2017-08-23 11:15:18] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P057 :   执行完毕！
+[2017-08-23 11:15:19] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P058 :   执行完毕！
+[2017-08-23 11:15:21] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P059 :   执行完毕！
+[2017-08-23 11:15:22] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P060 :   执行完毕！
+[2017-08-23 11:15:24] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P061 :   执行完毕！
+[2017-08-23 11:15:25] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P062 :   执行完毕！
+[2017-08-23 11:15:26] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P063 :   执行完毕！
+[2017-08-23 11:15:30] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P064 :   执行完毕！
+[2017-08-23 11:15:31] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P065 :   执行完毕！
+[2017-08-23 11:15:32] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P066 :   执行完毕！
+[2017-08-23 11:15:36] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P067 :   执行完毕！
+[2017-08-23 11:15:37] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P068 :   执行完毕！
+[2017-08-23 11:15:39] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P069 :   执行完毕！
+[2017-08-23 11:15:40] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P070 :   执行完毕！
+[2017-08-23 11:15:42] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P071 :   执行完毕！
+[2017-08-23 11:15:47] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P072 :   执行完毕！
+[2017-08-23 11:15:48] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P073 :   执行完毕！
+[2017-08-23 11:15:49] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P074 :   执行完毕！
+[2017-08-23 11:15:50] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P075 :   执行完毕！
+[2017-08-23 11:15:51] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P076 :   执行完毕！
+[2017-08-23 11:15:53] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P077 :   执行完毕！
+[2017-08-23 11:15:55] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P078 :   执行完毕！
+[2017-08-23 11:15:57] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P079 :   执行完毕！
+[2017-08-23 11:15:58] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P080 :   执行完毕！
+[2017-08-23 11:15:59] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P081 :   执行完毕！
+[2017-08-23 11:16:00] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P082 :   执行完毕！
+[2017-08-23 11:16:01] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P083 :   执行完毕！
+[2017-08-23 11:16:02] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P084 :   执行完毕！
+[2017-08-23 11:16:03] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P085 :   执行完毕！
+[2017-08-23 11:16:05] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P086 :   执行完毕！
+[2017-08-23 11:16:06] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P087 :   执行完毕！
+[2017-08-23 11:16:06] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:321] 开始等待元素.//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="审核成功"]出现，超时时间为 : 5秒
+[2017-08-23 11:16:06] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:328] 等待操作完成，元素XPath = .//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="审核成功"]
+[2017-08-23 11:16:08] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P088 :   执行完毕！
+[2017-08-23 11:16:09] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P089 :   执行完毕！
+[2017-08-23 11:16:11] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P090 :   执行完毕！
+[2017-08-23 11:16:12] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P091 :   执行完毕！
+[2017-08-23 11:16:14] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P092 :   执行完毕！
+[2017-08-23 11:16:15] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P093 :   执行完毕！
+[2017-08-23 11:16:16] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P094 :   执行完毕！
+[2017-08-23 11:16:17] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P095 :   执行完毕！
+[2017-08-23 11:16:18] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P096 :   执行完毕！
+[2017-08-23 11:16:19] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P097 :   执行完毕！
+[2017-08-23 11:16:19] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:321] 开始等待元素.//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="反审核成功"]出现，超时时间为 : 5秒
+[2017-08-23 11:16:19] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:328] 等待操作完成，元素XPath = .//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="反审核成功"]
+[2017-08-23 11:16:21] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P098 :   执行完毕！
+[2017-08-23 11:16:23] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P099 :   执行完毕！
+[2017-08-23 11:16:25] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P100 :   执行完毕！
+[2017-08-23 11:16:26] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P101 :   执行完毕！
+[2017-08-23 11:16:28] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P102 :   执行完毕！
+[2017-08-23 11:16:29] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P103 :   执行完毕！
+[2017-08-23 11:16:30] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P104 :   执行完毕！
+[2017-08-23 11:16:31] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P105 :   执行完毕！
+[2017-08-23 11:16:32] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P106 :   执行完毕！
+[2017-08-23 11:16:36] [yss.acs.ui.test.testcases.zhengQuanZhuanHuan_023][行:408] 步骤  P107 :   执行完毕！
+[2017-08-23 11:16:47] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:16:49] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:16:50] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:16:53] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-23 11:16:55] [yss.acs.ui.test.testcases.OpenBusinessManage_024][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:16:57] [yss.acs.ui.test.testcases.OpenBusinessManage_024][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:16:58] [yss.acs.ui.test.testcases.OpenBusinessManage_024][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:16:59] [yss.acs.ui.test.testcases.OpenBusinessManage_024][行:408] 步骤  P004 :   执行完毕！
+[2017-08-23 11:17:01] [yss.acs.ui.test.testcases.OpenBusinessManage_024][行:408] 步骤  P027 :   执行完毕！
+[2017-08-23 11:17:05] [yss.acs.ui.test.testcases.OpenBusinessManage_024][行:408] 步骤  P028 :   执行完毕！
+[2017-08-23 11:17:06] [yss.acs.ui.test.testcases.OpenBusinessManage_024][行:408] 步骤  P029 :   执行完毕！
+[2017-08-23 11:17:07] [yss.acs.ui.test.testcases.OpenBusinessManage_024][行:408] 步骤  P030 :   执行完毕！
+[2017-08-23 11:17:11] [yss.acs.ui.test.testcases.OpenBusinessManage_024][行:408] 步骤  P031 :   执行完毕！
+[2017-08-23 11:17:12] [yss.acs.ui.test.testcases.OpenBusinessManage_024][行:408] 步骤  P032 :   执行完毕！
+[2017-08-23 11:17:20] [yss.acs.ui.test.testcases.OpenBusinessManage_024][行:408] 步骤  P033 :   执行完毕！
+[2017-08-23 11:17:21] [yss.acs.ui.test.testcases.OpenBusinessManage_024][行:408] 步骤  P034 :   执行完毕！
+[2017-08-23 11:17:26] [yss.acs.ui.test.testcases.OpenBusinessManage_024][行:408] 步骤  P035 :   执行完毕！
+[2017-08-23 11:17:27] [yss.acs.ui.test.testcases.OpenBusinessManage_024][行:408] 步骤  P036 :   执行完毕！
+[2017-08-23 11:17:28] [yss.acs.ui.test.testcases.OpenBusinessManage_024][行:408] 步骤  P037 :   执行完毕！
+[2017-08-23 11:17:29] [yss.acs.ui.test.testcases.OpenBusinessManage_024][行:408] 步骤  P038 :   执行完毕！
+[2017-08-23 11:17:30] [yss.acs.ui.test.testcases.OpenBusinessManage_024][行:408] 步骤  P039 :   执行完毕！
+[2017-08-23 11:17:32] [yss.acs.ui.test.testcases.OpenBusinessManage_024][行:408] 步骤  P039 :   执行完毕！
+[2017-08-23 11:17:33] [yss.acs.ui.test.testcases.OpenBusinessManage_024][行:408] 步骤  P040 :   执行完毕！
+[2017-08-23 11:17:34] [yss.acs.ui.test.testcases.OpenBusinessManage_024][行:408] 步骤  P041 :   执行完毕！
+[2017-08-23 11:17:36] [yss.acs.ui.test.testcases.OpenBusinessManage_024][行:408] 步骤  P042 :   执行完毕！
+[2017-08-23 11:17:37] [yss.acs.ui.test.testcases.OpenBusinessManage_024][行:408] 步骤  P043 :   执行完毕！
+[2017-08-23 11:17:38] [yss.acs.ui.test.testcases.OpenBusinessManage_024][行:408] 步骤  P044 :   执行完毕！
+[2017-08-23 11:17:39] [yss.acs.ui.test.testcases.OpenBusinessManage_024][行:408] 步骤  P045 :   执行完毕！
+[2017-08-23 11:17:40] [yss.acs.ui.test.testcases.OpenBusinessManage_024][行:408] 步骤  P046 :   执行完毕！
+[2017-08-23 11:17:41] [yss.acs.ui.test.testcases.OpenBusinessManage_024][行:408] 步骤  P047 :   执行完毕！
+[2017-08-23 11:17:43] [yss.acs.ui.test.testcases.OpenBusinessManage_024][行:408] 步骤  P048 :   执行完毕！
+[2017-08-23 11:17:44] [yss.acs.ui.test.testcases.OpenBusinessManage_024][行:408] 步骤  P049 :   执行完毕！
+[2017-08-23 11:17:48] [yss.acs.ui.test.testcases.OpenBusinessManage_024][行:408] 步骤  P050 :   执行完毕！
+[2017-08-23 11:18:00] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:18:01] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:18:02] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:18:05] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-23 11:18:08] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:18:09] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:18:11] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:18:12] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P004 :   执行完毕！
+[2017-08-23 11:18:13] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P005 :   执行完毕！
+[2017-08-23 11:18:17] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P006 :   执行完毕！
+[2017-08-23 11:18:19] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P007 :   执行完毕！
+[2017-08-23 11:18:20] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P008 :   执行完毕！
+[2017-08-23 11:18:21] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P009 :   执行完毕！
+[2017-08-23 11:18:22] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P010 :   执行完毕！
+[2017-08-23 11:18:23] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P011 :   执行完毕！
+[2017-08-23 11:18:24] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P012 :   执行完毕！
+[2017-08-23 11:18:25] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P013 :   执行完毕！
+[2017-08-23 11:18:26] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P014 :   执行完毕！
+[2017-08-23 11:18:28] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P015 :   执行完毕！
+[2017-08-23 11:18:29] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P016 :   执行完毕！
+[2017-08-23 11:18:30] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P017 :   执行完毕！
+[2017-08-23 11:18:31] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P018 :   执行完毕！
+[2017-08-23 11:18:33] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P019 :   执行完毕！
+[2017-08-23 11:18:34] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P020 :   执行完毕！
+[2017-08-23 11:18:36] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P021 :   执行完毕！
+[2017-08-23 11:18:38] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P022 :   执行完毕！
+[2017-08-23 11:18:39] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P023 :   执行完毕！
+[2017-08-23 11:18:40] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P024 :   执行完毕！
+[2017-08-23 11:18:41] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P025 :   执行完毕！
+[2017-08-23 11:18:42] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P026 :   执行完毕！
+[2017-08-23 11:18:43] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P027 :   执行完毕！
+[2017-08-23 11:18:44] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P028 :   执行完毕！
+[2017-08-23 11:18:45] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P029 :   执行完毕！
+[2017-08-23 11:18:46] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P030 :   执行完毕！
+[2017-08-23 11:18:47] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P031 :   执行完毕！
+[2017-08-23 11:18:48] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P032 :   执行完毕！
+[2017-08-23 11:18:49] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P033 :   执行完毕！
+[2017-08-23 11:18:52] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P034 :   执行完毕！
+[2017-08-23 11:18:53] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P035 :   执行完毕！
+[2017-08-23 11:18:54] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P036 :   执行完毕！
+[2017-08-23 11:18:55] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P037 :   执行完毕！
+[2017-08-23 11:18:56] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P038 :   执行完毕！
+[2017-08-23 11:18:57] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P039 :   执行完毕！
+[2017-08-23 11:19:01] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P040 :   执行完毕！
+[2017-08-23 11:19:02] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P041 :   执行完毕！
+[2017-08-23 11:19:05] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P042 :   执行完毕！
+[2017-08-23 11:19:06] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P043 :   执行完毕！
+[2017-08-23 11:19:08] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P044 :   执行完毕！
+[2017-08-23 11:19:10] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P045 :   执行完毕！
+[2017-08-23 11:19:11] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P046 :   执行完毕！
+[2017-08-23 11:19:15] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P047 :   执行完毕！
+[2017-08-23 11:19:16] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P048 :   执行完毕！
+[2017-08-23 11:19:17] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P049 :   执行完毕！
+[2017-08-23 11:19:21] [yss.acs.ui.test.testcases.AssetValuTable_025][行:408] 步骤  P050 :   执行完毕！
+[2017-08-23 11:19:32] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:19:33] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:19:34] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:19:37] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-23 11:19:40] [yss.acs.ui.test.testcases.ZiChanYuEBiao_026][行:408] 步骤  P001 : 选择"核算估值操作"  执行完毕！
+[2017-08-23 11:19:41] [yss.acs.ui.test.testcases.ZiChanYuEBiao_026][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:19:43] [yss.acs.ui.test.testcases.ZiChanYuEBiao_026][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:19:44] [yss.acs.ui.test.testcases.ZiChanYuEBiao_026][行:408] 步骤  P004 :   执行完毕！
+[2017-08-23 11:19:46] [yss.acs.ui.test.testcases.ZiChanYuEBiao_026][行:408] 步骤  P005 : 硬等待  执行完毕！
+[2017-08-23 11:19:47] [yss.acs.ui.test.testcases.ZiChanYuEBiao_026][行:408] 步骤  P006 : 点击产品名称框  执行完毕！
+[2017-08-23 11:19:52] [yss.acs.ui.test.testcases.ZiChanYuEBiao_026][行:408] 步骤  P007 : 点击输入产品代码  执行完毕！
+[2017-08-23 11:19:53] [yss.acs.ui.test.testcases.ZiChanYuEBiao_026][行:408] 步骤  P008 : 选中产品  执行完毕！
+[2017-08-23 11:19:54] [yss.acs.ui.test.testcases.ZiChanYuEBiao_026][行:408] 步骤  P009 : 科目级别  执行完毕！
+[2017-08-23 11:19:55] [yss.acs.ui.test.testcases.ZiChanYuEBiao_026][行:408] 步骤  P010 : 选择科目级别  执行完毕！
+[2017-08-23 11:19:57] [yss.acs.ui.test.testcases.ZiChanYuEBiao_026][行:408] 步骤  P011 : 取消有发生额  执行完毕！
+[2017-08-23 11:19:58] [yss.acs.ui.test.testcases.ZiChanYuEBiao_026][行:408] 步骤  P012 : 取消有余额  执行完毕！
+[2017-08-23 11:20:00] [yss.acs.ui.test.testcases.ZiChanYuEBiao_026][行:408] 步骤  P013 : 取消本位币  执行完毕！
+[2017-08-23 11:20:01] [yss.acs.ui.test.testcases.ZiChanYuEBiao_026][行:408] 步骤  P014 : 取消数量  执行完毕！
+[2017-08-23 11:20:03] [yss.acs.ui.test.testcases.ZiChanYuEBiao_026][行:408] 步骤  P015 : 取消年初数  执行完毕！
+[2017-08-23 11:20:04] [yss.acs.ui.test.testcases.ZiChanYuEBiao_026][行:408] 步骤  P016 : 取消期初数  执行完毕！
+[2017-08-23 11:20:05] [yss.acs.ui.test.testcases.ZiChanYuEBiao_026][行:408] 步骤  P017 : 取消日发生额  执行完毕！
+[2017-08-23 11:20:07] [yss.acs.ui.test.testcases.ZiChanYuEBiao_026][行:408] 步骤  P018 : 月发生额  执行完毕！
+[2017-08-23 11:20:08] [yss.acs.ui.test.testcases.ZiChanYuEBiao_026][行:408] 步骤  P019 : 点击日历  执行完毕！
+[2017-08-23 11:20:09] [yss.acs.ui.test.testcases.ZiChanYuEBiao_026][行:408] 步骤  P020 : 选择上个月  执行完毕！
+[2017-08-23 11:20:10] [yss.acs.ui.test.testcases.ZiChanYuEBiao_026][行:408] 步骤  P021 : 选择年份  执行完毕！
+[2017-08-23 11:20:11] [yss.acs.ui.test.testcases.ZiChanYuEBiao_026][行:408] 步骤  P022 : 选择五月  执行完毕！
+[2017-08-23 11:20:12] [yss.acs.ui.test.testcases.ZiChanYuEBiao_026][行:408] 步骤  P023 : 选择八月  执行完毕！
+[2017-08-23 11:20:13] [yss.acs.ui.test.testcases.ZiChanYuEBiao_026][行:408] 步骤  P024 : 选择左  执行完毕！
+[2017-08-23 11:20:14] [yss.acs.ui.test.testcases.ZiChanYuEBiao_026][行:408] 步骤  P025 : 选择右  执行完毕！
+[2017-08-23 11:20:15] [yss.acs.ui.test.testcases.ZiChanYuEBiao_026][行:408] 步骤  P026 : 选择2015年  执行完毕！
+[2017-08-23 11:20:16] [yss.acs.ui.test.testcases.ZiChanYuEBiao_026][行:408] 步骤  P027 : 点击OK  执行完毕！
+[2017-08-23 11:20:17] [yss.acs.ui.test.testcases.ZiChanYuEBiao_026][行:408] 步骤  P028 : 选择十五号  执行完毕！
+[2017-08-23 11:20:19] [yss.acs.ui.test.testcases.ZiChanYuEBiao_026][行:408] 步骤  P029 : 等待  执行完毕！
+[2017-08-23 11:20:20] [yss.acs.ui.test.testcases.ZiChanYuEBiao_026][行:408] 步骤  P030 : 点击查询  执行完毕！
+[2017-08-23 11:20:29] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:20:30] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:20:32] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:20:35] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-23 11:20:37] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P001 : 选择"核算估值操作"  执行完毕！
+[2017-08-23 11:20:38] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:20:40] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:20:41] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P004 : 点击进入核算处理  执行完毕！
+[2017-08-23 11:20:43] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P005 : 等待时间  执行完毕！
+[2017-08-23 11:20:44] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P006 : 点击产品名称框  执行完毕！
+[2017-08-23 11:20:49] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P007 : 点击输入产品代码  执行完毕！
+[2017-08-23 11:20:50] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P008 : 选中产品  执行完毕！
+[2017-08-23 11:20:51] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P009 : 点击节假日处理  执行完毕！
+[2017-08-23 11:20:52] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P010 : 点开始日期  执行完毕！
+[2017-08-23 11:20:53] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P011 : 选择上个月  执行完毕！
+[2017-08-23 11:20:54] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P012 : 选择年份  执行完毕！
+[2017-08-23 11:20:55] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P013 : 选择五月  执行完毕！
+[2017-08-23 11:20:56] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P014 : 选择八月  执行完毕！
+[2017-08-23 11:20:57] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P015 : 选择左  执行完毕！
+[2017-08-23 11:20:58] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P016 : 选择右  执行完毕！
+[2017-08-23 11:20:59] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P017 : 选择2015年  执行完毕！
+[2017-08-23 11:21:00] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P018 : 点击OK  执行完毕！
+[2017-08-23 11:21:01] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P019 : 选择十五号  执行完毕！
+[2017-08-23 11:21:03] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P020 : 等待  执行完毕！
+[2017-08-23 11:21:04] [yss.acs.ui.test.testcases.HeSuanChuLi_027][行:408] 步骤  P033 : 查询  执行完毕！
+[2017-08-23 11:21:15] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:21:16] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:21:19] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:21:22] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-23 11:21:24] [yss.acs.ui.test.testcases.PingZhengWeiHu_028][行:408] 步骤  P001 : 选择"核算估值操作"  执行完毕！
+[2017-08-23 11:21:25] [yss.acs.ui.test.testcases.PingZhengWeiHu_028][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:21:27] [yss.acs.ui.test.testcases.PingZhengWeiHu_028][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:21:28] [yss.acs.ui.test.testcases.PingZhengWeiHu_028][行:408] 步骤  P004 : 点击进入凭证维护  执行完毕！
+[2017-08-23 11:21:30] [yss.acs.ui.test.testcases.PingZhengWeiHu_028][行:408] 步骤  P005 : 等待时间  执行完毕！
+[2017-08-23 11:21:32] [yss.acs.ui.test.testcases.PingZhengWeiHu_028][行:408] 步骤  P006 : 点击产品名称框  执行完毕！
+[2017-08-23 11:21:36] [yss.acs.ui.test.testcases.PingZhengWeiHu_028][行:408] 步骤  P007 : 输入产品代码  执行完毕！
+[2017-08-23 11:21:37] [yss.acs.ui.test.testcases.PingZhengWeiHu_028][行:408] 步骤  P008 : 选中产品  执行完毕！
+[2017-08-23 11:21:38] [yss.acs.ui.test.testcases.PingZhengWeiHu_028][行:408] 步骤  P009 : 业务类别名称框  执行完毕！
+[2017-08-23 11:21:42] [yss.acs.ui.test.testcases.PingZhengWeiHu_028][行:408] 步骤  P010 : 输入业务类别  执行完毕！
+[2017-08-23 11:21:43] [yss.acs.ui.test.testcases.PingZhengWeiHu_028][行:408] 步骤  P011 : 选中业务类别  执行完毕！
+[2017-08-23 11:21:49] [yss.acs.ui.test.testcases.PingZhengWeiHu_028][行:408] 步骤  P012 : 输入凭证起始日期  执行完毕！
+[2017-08-23 11:21:50] [yss.acs.ui.test.testcases.PingZhengWeiHu_028][行:408] 步骤  P013 : 勾选凭证结束日期  执行完毕！
+[2017-08-23 11:21:56] [yss.acs.ui.test.testcases.PingZhengWeiHu_028][行:408] 步骤  P014 : 输入凭证截止日期  执行完毕！
+[2017-08-23 11:21:57] [yss.acs.ui.test.testcases.PingZhengWeiHu_028][行:408] 步骤  P015 : 选择审核状态  执行完毕！
+[2017-08-23 11:21:58] [yss.acs.ui.test.testcases.PingZhengWeiHu_028][行:408] 步骤  P016 : 选择已审核  执行完毕！
+[2017-08-23 11:21:59] [yss.acs.ui.test.testcases.PingZhengWeiHu_028][行:408] 步骤  P017 : 点击数据来源  执行完毕！
+[2017-08-23 11:22:00] [yss.acs.ui.test.testcases.PingZhengWeiHu_028][行:408] 步骤  P018 : 手工维护数据  执行完毕！
+[2017-08-23 11:22:03] [yss.acs.ui.test.testcases.PingZhengWeiHu_028][行:408] 步骤  P019 : 输入科目金额起始  执行完毕！
+[2017-08-23 11:22:06] [yss.acs.ui.test.testcases.PingZhengWeiHu_028][行:408] 步骤  P020 : 科目金额最高  执行完毕！
+[2017-08-23 11:22:11] [yss.acs.ui.test.testcases.PingZhengWeiHu_028][行:408] 步骤  P021 : 输入科目代码  执行完毕！
+[2017-08-23 11:22:13] [yss.acs.ui.test.testcases.PingZhengWeiHu_028][行:408] 步骤  P022 : 输入凭证号  执行完毕！
+[2017-08-23 11:22:17] [yss.acs.ui.test.testcases.PingZhengWeiHu_028][行:408] 步骤  P023 : 输入摘要  执行完毕！
+[2017-08-23 11:22:18] [yss.acs.ui.test.testcases.PingZhengWeiHu_028][行:408] 步骤  P024 : 点击查询  执行完毕！
+[2017-08-23 11:22:21] [yss.acs.ui.test.testcases.PingZhengWeiHu_028][行:408] 步骤  P025 : 等待  执行完毕！
+[2017-08-23 11:22:33] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:22:34] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:22:36] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:22:39] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-23 11:22:41] [yss.acs.ui.test.testcases.RiJiZhangBuXinXi_029][行:408] 步骤  P001 : 选择"核算估值操作"  执行完毕！
+[2017-08-23 11:22:42] [yss.acs.ui.test.testcases.RiJiZhangBuXinXi_029][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:22:44] [yss.acs.ui.test.testcases.RiJiZhangBuXinXi_029][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:22:45] [yss.acs.ui.test.testcases.RiJiZhangBuXinXi_029][行:408] 步骤  P004 : 点击进入日记账簿信息管理  执行完毕！
+[2017-08-23 11:22:47] [yss.acs.ui.test.testcases.RiJiZhangBuXinXi_029][行:408] 步骤  P005 : 等待时间  执行完毕！
+[2017-08-23 11:22:48] [yss.acs.ui.test.testcases.RiJiZhangBuXinXi_029][行:408] 步骤  P006 : 点击产品名称框  执行完毕！
+[2017-08-23 11:22:53] [yss.acs.ui.test.testcases.RiJiZhangBuXinXi_029][行:408] 步骤  P007 : 输入产品代码  执行完毕！
+[2017-08-23 11:22:54] [yss.acs.ui.test.testcases.RiJiZhangBuXinXi_029][行:408] 步骤  P008 : 选中产品  执行完毕！
+[2017-08-23 11:22:58] [yss.acs.ui.test.testcases.RiJiZhangBuXinXi_029][行:408] 步骤  P012 : 输入科目代码  执行完毕！
+[2017-08-23 11:22:59] [yss.acs.ui.test.testcases.RiJiZhangBuXinXi_029][行:408] 步骤  P013 : 查询按钮  执行完毕！
+[2017-08-23 11:23:01] [yss.acs.ui.test.testcases.RiJiZhangBuXinXi_029][行:408] 步骤  P014 : 等待  执行完毕！
+[2017-08-23 11:23:02] [yss.acs.ui.test.testcases.RiJiZhangBuXinXi_029][行:408] 步骤  P015 : 点击快速下载  执行完毕！
+[2017-08-23 11:23:03] [yss.acs.ui.test.testcases.RiJiZhangBuXinXi_029][行:408] 步骤  P016 : 选择Excel07  执行完毕！
+[2017-08-23 11:23:07] [yss.acs.ui.test.testcases.RiJiZhangBuXinXi_029][行:408] 步骤  P017 : 等待  执行完毕！
+[2017-08-23 11:23:18] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-08-23 11:23:19] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:23:24] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:23:28] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-08-23 11:23:32] [yss.acs.ui.test.testcases.HeSuanZhangWuSuoDing_030][行:408] 步骤  P001 : 选择"核算估值操作"  执行完毕！
+[2017-08-23 11:23:33] [yss.acs.ui.test.testcases.HeSuanZhangWuSuoDing_030][行:408] 步骤  P002 :   执行完毕！
+[2017-08-23 11:23:35] [yss.acs.ui.test.testcases.HeSuanZhangWuSuoDing_030][行:408] 步骤  P003 :   执行完毕！
+[2017-08-23 11:23:36] [yss.acs.ui.test.testcases.HeSuanZhangWuSuoDing_030][行:408] 步骤  P004 : 点击进入核算账务锁定页面  执行完毕！
+[2017-08-23 11:23:38] [yss.acs.ui.test.testcases.HeSuanZhangWuSuoDing_030][行:408] 步骤  P005 : 等待时间  执行完毕！
+[2017-08-23 11:23:39] [yss.acs.ui.test.testcases.HeSuanZhangWuSuoDing_030][行:408] 步骤  P013 : 产品下拉框  执行完毕！
+[2017-08-23 11:23:40] [yss.acs.ui.test.testcases.HeSuanZhangWuSuoDing_030][行:408] 步骤  P014 : 产品全选  执行完毕！
+[2017-08-23 11:23:41] [yss.acs.ui.test.testcases.HeSuanZhangWuSuoDing_030][行:408] 步骤  P015 : 开始日期  执行完毕！
+[2017-08-23 11:23:42] [yss.acs.ui.test.testcases.HeSuanZhangWuSuoDing_030][行:408] 步骤  P016 : 截止日期  执行完毕！
+[2017-08-23 11:23:43] [yss.acs.ui.test.testcases.HeSuanZhangWuSuoDing_030][行:408] 步骤  P017 : 审核下拉框  执行完毕！
+[2017-08-23 11:23:45] [yss.acs.ui.test.testcases.HeSuanZhangWuSuoDing_030][行:408] 步骤  P018 : 输入数据  执行完毕！
+[2017-08-23 11:23:47] [yss.acs.ui.test.testcases.HeSuanZhangWuSuoDing_030][行:408] 步骤  P019 : 选择未审核  执行完毕！
+[2017-08-23 11:23:48] [yss.acs.ui.test.testcases.HeSuanZhangWuSuoDing_030][行:408] 步骤  P020 : 锁定下拉框  执行完毕！
+[2017-08-23 11:23:51] [yss.acs.ui.test.testcases.HeSuanZhangWuSuoDing_030][行:408] 步骤  P021 : 输入状态  执行完毕！
+[2017-08-23 11:23:53] [yss.acs.ui.test.testcases.HeSuanZhangWuSuoDing_030][行:408] 步骤  P022 : 选择锁定成功  执行完毕！
+[2017-08-23 11:23:54] [yss.acs.ui.test.testcases.HeSuanZhangWuSuoDing_030][行:408] 步骤  P023 : 点击查询按钮  执行完毕！
+[2017-08-23 11:23:56] [yss.acs.ui.test.testcases.HeSuanZhangWuSuoDing_030][行:408] 步骤  P024 : 等待  执行完毕！
+[2017-08-23 11:23:57] [yss.acs.ui.test.testcases.HeSuanZhangWuSuoDing_030][行:408] 步骤  P025 : 点击快速下载  执行完毕！
+[2017-08-23 11:23:58] [yss.acs.ui.test.testcases.HeSuanZhangWuSuoDing_030][行:408] 步骤  P026 : 选择Excel07方式  执行完毕！
+[2017-08-23 11:24:02] [yss.acs.ui.test.testcases.HeSuanZhangWuSuoDing_030][行:408] 步骤  P027 : 等待  执行完毕！
+[2017-08-23 11:24:08] [myutils.common.MailUtils][行:210] 跑账测试结果 -- 2017年08月23日 邮件发送成功!
+[2017-08-23 11:24:08] [yss.acs.ui.test.base.TestCasesBase][行:119] 邮件已发送，请注意查收！...
+[2017-08-23 11:24:10] [yss.acs.ui.utils.CreateExcelForResult][行:551] Excel报告已经生成，请查看：[F:\自动化\acs.ui.test\test-output\excelReports\TestReport_2017-08-23-11-24-核算、清算冒烟测试.xlsx]

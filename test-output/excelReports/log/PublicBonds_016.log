@@ -1,0 +1,49 @@
+[2017-09-15 15:18:25] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P001 :   执行完毕！
+[2017-09-15 15:18:26] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P002 :   执行完毕！
+[2017-09-15 15:18:27] [yss.acs.ui.test.base.TestCasesBase][行:408] 步骤  P003 :   执行完毕！
+[2017-09-15 15:18:30] [yss.acs.ui.utils.SeleniumUtils][行:89] Switch to Handle: 赢时胜金融应用 successfully!
+[2017-09-15 15:18:33] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P001 :   执行完毕！
+[2017-09-15 15:18:34] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P002 :   执行完毕！
+[2017-09-15 15:18:36] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P003 :   执行完毕！
+[2017-09-15 15:18:37] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P004 :   执行完毕！
+[2017-09-15 15:18:38] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P005 :   执行完毕！
+[2017-09-15 15:18:40] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P006 :   执行完毕！
+[2017-09-15 15:18:41] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P007 :   执行完毕！
+[2017-09-15 15:18:42] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P008 :   执行完毕！
+[2017-09-15 15:18:46] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P009 :   执行完毕！
+[2017-09-15 15:18:48] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P010 :   执行完毕！
+[2017-09-15 15:18:49] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P011 :   执行完毕！
+[2017-09-15 15:18:50] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P013 :   执行完毕！
+[2017-09-15 15:18:52] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P014 :   执行完毕！
+[2017-09-15 15:18:53] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P015 :   执行完毕！
+[2017-09-15 15:18:54] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P016 :   执行完毕！
+[2017-09-15 15:18:57] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P017 :   执行完毕！
+[2017-09-15 15:18:58] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P018 :   执行完毕！
+[2017-09-15 15:18:59] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P019 :   执行完毕！
+[2017-09-15 15:19:00] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P020 :   执行完毕！
+[2017-09-15 15:19:05] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P021 :   执行完毕！
+[2017-09-15 15:19:06] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P074 : 点击审核按钮  执行完毕！
+[2017-09-15 15:19:09] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P075 : 输入数据  执行完毕！
+[2017-09-15 15:19:10] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P076 : 选择数据  执行完毕！
+[2017-09-15 15:19:11] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P077 : 点击查询  执行完毕！
+[2017-09-15 15:19:12] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P078 : 全选  执行完毕！
+[2017-09-15 15:19:14] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P079 : 等待  执行完毕！
+[2017-09-15 15:19:15] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P080 : 审核  执行完毕！
+[2017-09-15 15:19:16] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P081 : 是  执行完毕！
+[2017-09-15 15:19:16] [yss.acs.ui.test.testcases.PublicBonds_016][行:321] 开始等待元素.//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="审核成功"]出现，超时时间为 : 5秒
+[2017-09-15 15:19:16] [yss.acs.ui.test.testcases.PublicBonds_016][行:328] 等待操作完成，元素XPath = .//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="审核成功"]
+[2017-09-15 15:19:18] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P082 : 获取审核成功  执行完毕！
+[2017-09-15 15:19:19] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P083 : 点击确定  执行完毕！
+[2017-09-15 15:19:21] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P084 : 等待  执行完毕！
+[2017-09-15 15:19:22] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P085 : 点击审核按钮  执行完毕！
+[2017-09-15 15:19:25] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P086 : 输入数据  执行完毕！
+[2017-09-15 15:19:26] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P087 : 选择数据  执行完毕！
+[2017-09-15 15:19:27] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P088 : 点击查询  执行完毕！
+[2017-09-15 15:19:28] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P089 : 全选  执行完毕！
+[2017-09-15 15:19:30] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P090 : 等待  执行完毕！
+[2017-09-15 15:19:31] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P091 : 反审核  执行完毕！
+[2017-09-15 15:19:32] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P092 : 是  执行完毕！
+[2017-09-15 15:19:32] [yss.acs.ui.test.testcases.PublicBonds_016][行:321] 开始等待元素.//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="反审核成功"]出现，超时时间为 : 5秒
+[2017-09-15 15:19:32] [yss.acs.ui.test.testcases.PublicBonds_016][行:328] 等待操作完成，元素XPath = .//*[@class=' x-window x-window-plain x-window-dlg']//*[text()="反审核成功"]
+[2017-09-15 15:19:34] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P093 : 获取反审核成功  执行完毕！
+[2017-09-15 15:19:35] [yss.acs.ui.test.testcases.PublicBonds_016][行:408] 步骤  P094 : 点击确定  执行完毕！
